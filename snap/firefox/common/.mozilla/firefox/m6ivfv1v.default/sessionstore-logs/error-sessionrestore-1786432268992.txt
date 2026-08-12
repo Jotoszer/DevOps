@@ -1,0 +1,2 @@
+1786432269746	SessionStore	ERROR	NotReadableError when reading session file: clean: NotReadableError: Could not read `/home/adam/snap/firefox/common/.mozilla/firefox/m6ivfv1v.default/sessionstore.jsonlz4': could not decompress file: buffer is too small (NS_ERROR_FILE_CORRUPTED) No traceback available
+1786432269834	SessionStore	WARN	No readable session files found to restore, starting with empty session

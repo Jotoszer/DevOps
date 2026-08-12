@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///run/media/adam/VBox_GAs_7.2.14/VBoxLinuxAdditions.run" added="2026-08-11T06:34:43.083007Z" modified="2026-08-11T06:34:43.083011Z" visited="2026-08-11T06:34:43.083008Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-11T06:34:43.083009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/adam/VBox_GAs_7.2.14/VBoxLinuxAdditions-arm64.run" added="2026-08-11T06:35:17.586856Z" modified="2026-08-11T06:35:17.586860Z" visited="2026-08-11T06:35:17.586856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-11T06:35:17.586858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/adam/VBox_GAs_7.2.14" added="2026-08-11T06:36:22.675039Z" modified="2026-08-11T06:36:22.675045Z" visited="2026-08-11T06:36:22.675040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus-autorun-software %u&apos;" modified="2026-08-11T06:36:22.675041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/README.md" added="2026-08-12T10:00:46.429298Z" modified="2026-08-12T10:00:46.429302Z" visited="2026-08-12T10:00:46.429299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-12T10:00:46.429300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

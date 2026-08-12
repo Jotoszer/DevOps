@@ -1,0 +1,10 @@
+[user]
+	name = Jotoszer
+	email = adam.kozierowski@gmail.com
+	signingkey = /home/adam/.ssh/id_rsa.pub
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
+[gpg]
+	format = ssh
