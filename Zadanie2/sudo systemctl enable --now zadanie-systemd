@@ -1,0 +1,9 @@
+○ zadanie-systemd.timer - Timer Mon-Sun 6:00, 18:00
+     Loaded: loaded (]8;;file://AdamVirtualBox/etc/systemd/system/zadanie-systemd.timer\/etc/systemd/system/zadanie-systemd.timer]8;;\; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: inactive (dead)
+    Trigger: n/a
+   Triggers: ● zadanie-systemd.service
+
+Aug 14 10:35:42 AdamVirtualBox systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185m]8;;file://AdamVirtualBox/etc/systemd/system/zadanie-systemd.timer\/etc/systemd/system/zadanie-systemd.timer]8;;\:2: Unknown key 'Descirption' in section [Unit], ignoring.[0m
+Aug 14 10:35:42 AdamVirtualBox systemd[1]: [0;1;38:5:185m[0;1;39m[0;1;38:5:185m]8;;file://AdamVirtualBox/etc/systemd/system/zadanie-systemd.timer\/etc/systemd/system/zadanie-systemd.timer]8;;\:5: Failed to parse calendar specification, ignoring: *-*-*- 06,18:00:00[0m
+Aug 14 10:35:42 AdamVirtualBox systemd[1]: [0;1;31m[0;1;39m[0;1;31mzadanie-systemd.timer: Timer unit lacks value setting. Refusing.[0m

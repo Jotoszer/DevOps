@@ -1,0 +1,10 @@
+[Unit]
+Description=Zadanie systemd
+After=network.target
+
+[Service]
+ExecStart=/home/adam/Zadanie2/skrypt.sh
+Restart=always
+
+[Intall]
+WantedBy=multi-user.target
