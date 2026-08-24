@@ -1,0 +1,7 @@
+Script started on 2026-08-24 16:07:30+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="74" LINES="39"]
+]666;vte.shell.postexec=0\]7;file://AdamVirtualBox/home/adam/Zadanie1\]0;adam@AdamVirtualBox:~/Zadanie1\]666;vte.shell.precmd!\[?2004h]0;adam@AdamVirtualBox: ~/Zadanie1[01;32madam@AdamVirtualBox[00m:[01;34m~/Zadanie1[00m$ git config --get.gpg[K[K[K[K[Kt gg[Kpg.g[Kformat
+[?2004l]133;C\]666;vte.shell.preexec!\ssh
+]666;vte.shell.postexec=0\]7;file://AdamVirtualBox/home/adam/Zadanie1\]0;adam@AdamVirtualBox:~/Zadanie1\]666;vte.shell.precmd!\[?2004h]0;adam@AdamVirtualBox: ~/Zadanie1[01;32madam@AdamVirtualBox[00m:[01;34m~/Zadanie1[00m$ [?2004l
+exit
+
+Script done on 2026-08-24 16:07:53+02:00 [COMMAND_EXIT_CODE="0"]
