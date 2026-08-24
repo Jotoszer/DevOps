@@ -1,0 +1,75 @@
+Script started on 2026-08-24 15:43:27+02:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="74" LINES="39"]
+]666;vte.shell.postexec=0\]7;file://AdamVirtualBox/home/adam/Zadanie3\]0;adam@AdamVirtualBox:~/Zadanie3\]666;vte.shell.precmd!\[?2004h]0;adam@AdamVirtualBox: ~/Zadanie3[01;32madam@AdamVirtualBox[00m:[01;34m~/Zadanie3[00m$ curl -X OPTIONS \
+[?2004l
+[?2004h> -H "Origin: http://localhost:3000" \
+[?2004l
+[?2004h> -H "Access-Control-Request-Method: GET" \
+[?2004l
+[?2004h> -v http://localhost:9[K8000
+[?2004l
+]133;C\
+]666;vte.shell.preexec!\* Host localhost:8000 was resolved.
+* IPv6: ::1
+* IPv4: 127.0.0.1
+*   Trying [::1]:8000...
+* connect to ::1 port 8000 from ::1 port 49074 failed: Connection refused
+*   Trying 127.0.0.1:8000...
+* Established connection to localhost (127.0.0.1 port 8000) from 127.0.0.1 port 50066 
+* using HTTP/1.x
+> OPTIONS / HTTP/1.1
+
+> Host: localhost:8000
+
+> User-Agent: curl/8.18.0
+
+> Accept: */*
+
+> Origin: http://localhost:3000
+
+> Access-Control-Request-Method: GET
+
+> 
+
+* Request completely sent off
+* HTTP 1.0, assume close after body
+< HTTP/1.0 501 Unsupported method ('OPTIONS')
+
+< Server: SimpleHTTP/0.6 Python/3.14.4
+
+< Date: Mon, 24 Aug 2026 13:44:18 GMT
+
+< Connection: close
+
+< Content-Type: text/html;charset=utf-8
+
+< Content-Length: 485
+
+< 
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <style type="text/css">
+            :root {
+                color-scheme: light dark;
+            }
+        </style>
+        <title>Error response</title>
+    </head>
+    <body>
+        <h1>Error response</h1>
+        <p>Error code: 501</p>
+        <p>Message: Unsupported method ('OPTIONS').</p>
+        <p>Error code explanation: 501 - Server does not support this operation.</p>
+    </body>
+</html>
+* shutting down connection #0
+]666;vte.shell.postexec=0\]7;file://AdamVirtualBox/home/adam/Zadanie3\]0;adam@AdamVirtualBox:~/Zadanie3\]666;vte.shell.precmd!\[?2004h]0;adam@AdamVirtualBox: ~/Zadanie3[01;32madam@AdamVirtualBox[00m:[01;34m~/Zadanie3[00m$ [?2004l
+
+exit
+
+Script done on 2026-08-24 15:44:48+02:00 [COMMAND_EXIT_CODE="0"]
+
+
+Z powyższego testu wynika, że nagłówki CORS nie zostały skonfigurowane i serwer nie rozpoznaje/nie potrafi obsłużyć metody OPTIONS.
