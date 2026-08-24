@@ -1,26 +1,17 @@
-{"timestamp":1867135,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","path_key":"clean","loadfail_reason":" NotReadableError: Could not read session file","glean_timestamp":"1786432269749"}}
-{"timestamp":1867135,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1786432269749","loadfail_reason":"N/A","path_key":"clean","can_load":"false"}}
-{"timestamp":1867140,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"recovery","loadfail_reason":"File doesn't exist.","can_load":"false","glean_timestamp":"1786432269754"}}
-{"timestamp":1867169,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1786432269784","loadfail_reason":"File doesn't exist.","can_load":"false","path_key":"recoveryBackup"}}
-{"timestamp":1867170,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","path_key":"cleanBackup","glean_timestamp":"1786432269785","loadfail_reason":"File doesn't exist."}}
-{"timestamp":1867178,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","glean_timestamp":"1786432269793","can_load":"false","path_key":"clean"}}
-{"timestamp":1867192,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"recovery","loadfail_reason":"File doesn't exist.","can_load":"false","glean_timestamp":"1786432269807"}}
-{"timestamp":1867217,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"recoveryBackup","loadfail_reason":"File doesn't exist.","can_load":"false","glean_timestamp":"1786432269832"}}
-{"timestamp":1867220,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1786432269834","can_load":"false","path_key":"cleanBackup","loadfail_reason":"File doesn't exist."}}
-{"timestamp":1867439,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1786432270053","setting":"required"}}
-{"timestamp":1867628,"category":"normandy","name":"expose_nimbus_experiment","extra":{"branchSlug":"mvp-beta","value":"built-in-vpn-beta-rollout-to-countries-with-mozilla-vpn-wave-1","glean_timestamp":"1786432270243","featureId":"ipProtection"}}
-{"timestamp":1867628,"category":"nimbus_events","name":"exposure","extra":{"glean_timestamp":"1786432270243","branch":"mvp-beta","feature_id":"ipProtection","experiment":"built-in-vpn-beta-rollout-to-countries-with-mozilla-vpn-wave-1"}}
-{"timestamp":1867708,"category":"nimbus_events","name":"startup_database_consistency","extra":{"total_db_count":"26","trigger":"startup","db_active_count":"26","primary":"database","total_store_count":"26","store_active_count":"26","glean_timestamp":"1786432270323"}}
-{"timestamp":1867799,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"error_notfounderror","glean_timestamp":"1786432270414"}}
-{"timestamp":1867832,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1786432270447","value":"null"}}
-{"timestamp":1867853,"category":"containers","name":"container_profile_loaded","extra":{"glean_timestamp":"1786432270467","containers":"4"}}
-{"timestamp":1868049,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1786432270664"}}
-{"timestamp":1868111,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1786432270725","value":"not-major"}}
-{"timestamp":1868174,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1786432270788","value":"error_notfounderror"}}
-{"timestamp":1870350,"category":"sap","name":"counts","extra":{"provider_name":"Google","glean_timestamp":"1786432272964","partner_code":"ubuntu-sn","source":"urlbar","overridden_by_third_party":"false","provider_id":"google"}}
-{"timestamp":1870350,"category":"urlbar","name":"engagement","extra":{"provider":"UrlbarProviderHeuristicFallback","sap":"urlbar_newtab","selected_position":"1","search_engine_default_id":"google-ubuntu-sn","actions":"none,none,none,none,none,none,none,none,none,none","glean_timestamp":"1786432272965","selected_result":"search_engine","available_semantic_sources":"none","n_results":"10","n_words":"1","engagement_type":"enter","n_chars":"8","search_mode":"","interaction":"typed","groups":"heuristic,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,general,general,general","results":"search_engine,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,search_suggest,history,history,history"}}
-{"timestamp":1871989,"category":"serp","name":"impression","extra":{"has_ai_summary":"false","is_shopping_page":"false","partner_code":"ubuntu-sn","impression_id":"1d945f7b-bd7a-430c-aeec-38926090c5d0","is_private":"false","is_signed_in":"false","provider":"google","glean_timestamp":"1786432274604","source":"urlbar","tagged":"true","shopping_tab_displayed":"false"}}
-{"timestamp":1872018,"category":"serp","name":"abandonment","extra":{"reason":"navigation","glean_timestamp":"1786432274632","impression_id":"1d945f7b-bd7a-430c-aeec-38926090c5d0"}}
-{"timestamp":1872470,"category":"media","name":"error","extra":{"glean_timestamp":"1786432284811","error_name":"NS_ERROR_DOM_MEDIA_NOT_SUPPORTED_ERR","error_type":"SrcNotSupportedErr"}}
-{"timestamp":1884896,"category":"media","name":"error","extra":{"error_name":"NS_ERROR_DOM_MEDIA_NOT_SUPPORTED_ERR","error_type":"SrcNotSupportedErr","glean_timestamp":"1786432296470"}}
-{"timestamp":2020210,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1786432422825","value":"null"}}
+{"timestamp":140883,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","loadfail_reason":"N/A","glean_timestamp":"1787570829844","can_load":"true"}}
+{"timestamp":140883,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","loadfail_reason":"N/A","can_load":"true","glean_timestamp":"1787570829844"}}
+{"timestamp":140884,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","shutdown_reason":"N/A","glean_timestamp":"1787570829844"}}
+{"timestamp":141208,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1787570830169"}}
+{"timestamp":141515,"category":"normandy","name":"expose_nimbus_experiment","extra":{"branchSlug":"mvp-beta","value":"built-in-vpn-beta-rollout-to-countries-with-mozilla-vpn-wave-1","featureId":"ipProtection","glean_timestamp":"1787570830475"}}
+{"timestamp":141515,"category":"nimbus_events","name":"exposure","extra":{"branch":"mvp-beta","glean_timestamp":"1787570830475","feature_id":"ipProtection","experiment":"built-in-vpn-beta-rollout-to-countries-with-mozilla-vpn-wave-1"}}
+{"timestamp":141575,"category":"nimbus_events","name":"startup_database_consistency","extra":{"db_active_count":"26","store_active_count":"26","total_store_count":"26","total_db_count":"26","glean_timestamp":"1787570830535","primary":"database","trigger":"startup"}}
+{"timestamp":141655,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"error_notfounderror","glean_timestamp":"1787570830616"}}
+{"timestamp":141663,"category":"doh","name":"state_rollback","extra":{"value":"null","glean_timestamp":"1787570830624"}}
+{"timestamp":141740,"category":"containers","name":"container_profile_loaded","extra":{"glean_timestamp":"1787570830700","containers":"4"}}
+{"timestamp":141879,"category":"jsonfile","name":"load_logins","extra":{"value":"error_notfounderror","glean_timestamp":"1787570830840"}}
+{"timestamp":141880,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"branch":"treatment","experimentType":"rollout","glean_timestamp":"1787570830841","value":"account-adoption-callout-for-bookmarks-global-rollout-2026"}}
+{"timestamp":141880,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment","experiment":"account-adoption-callout-for-bookmarks-global-rollout-2026","experiment_type":"rollout","glean_timestamp":"1787570830841"}}
+{"timestamp":141897,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1787570830858"}}
+{"timestamp":141899,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1787570830859","value":"not-major"}}
+{"timestamp":143173,"category":"nimbus_events","name":"database_write","extra":{"glean_timestamp":"1787570832134","success":"true"}}
+{"timestamp":143176,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1787570832137"}}

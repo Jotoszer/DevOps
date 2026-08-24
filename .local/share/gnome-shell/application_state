@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Ptyxis.desktop" score="859" last-seen="1786529106"/>
-    <application id="org.gnome.Nautilus.desktop" score="1" last-seen="1786528883"/>
-    <application id="firefox_firefox.desktop" score="21" last-seen="1786432422"/>
-    <application id="org.gnome.TextEditor.desktop" score="1" last-seen="1786528859"/>
+    <application id="org.gnome.Ptyxis.desktop" score="269" last-seen="1787579800"/>
+    <application id="org.gnome.Nautilus.desktop" score="1002" last-seen="1787579801"/>
+    <application id="firefox_firefox.desktop" score="0" last-seen="1787570832"/>
+    <application id="org.gnome.TextEditor.desktop" score="7" last-seen="1787579801"/>
   </context>
 </application-state>

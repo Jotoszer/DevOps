@@ -3,11 +3,56 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/adam/README.md" added="2026-08-12T10:00:49.662097Z" modified="2026-08-12T10:00:59.871886Z" visited="2026-08-12T12:00:46.902491+02">
+  <bookmark href="file:///home/adam/Zadanie2/skrypt.sh" added="2026-08-14T07:53:22.338112Z" modified="2026-08-14T08:30:32.770597Z" visited="2026-08-14T10:18:34.897862+02">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-12T10:00:59.871885Z" count="4"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-14T08:30:32.770596Z" count="54"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/zadanie-systemd.service" added="2026-08-14T08:28:48.339451Z" modified="2026-08-14T08:30:32.770595Z" visited="2026-08-14T10:28:45.464546+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-14T08:30:32.770595Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/zadanie-systemd.timer" added="2026-08-14T08:30:32.770589Z" modified="2026-08-24T11:45:44.499975Z" visited="2026-08-24T13:36:45.691970+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-24T11:45:44.499975Z" count="23"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/zadanie-systemd.timer" added="2026-08-14T08:36:20.338751Z" modified="2026-08-14T08:38:48.069937Z" visited="2026-08-14T10:38:08.505376+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-14T08:38:48.069937Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/systemd/system/zadanie-systemd.timer" added="2026-08-14T08:38:34.339092Z" modified="2026-08-24T11:45:44.499979Z" visited="2026-08-24T13:36:49.099897+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-24T11:45:44.499978Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie3/Zadanie3_test.txt" added="2026-08-24T13:45:58.588189Z" modified="2026-08-24T13:58:10.873532Z" visited="2026-08-24T15:56:41.539863+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-24T13:58:10.873531Z" count="16"/>
         </bookmark:applications>
       </metadata>
     </info>

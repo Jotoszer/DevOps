@@ -43,4 +43,134 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/adam/Zadanie%202" added="2026-08-14T07:47:00.542693Z" modified="2026-08-14T07:47:00.542695Z" visited="2026-08-14T07:47:00.542693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-14T07:47:00.542694Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/skrypt.sh.save" added="2026-08-14T07:53:07.907982Z" modified="2026-08-14T07:53:07.907989Z" visited="2026-08-14T07:53:07.907984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-14T07:53:07.907986Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/skrypt.sh" added="2026-08-14T07:53:18.872545Z" modified="2026-08-14T08:18:34.376196Z" visited="2026-08-14T07:53:18.872545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-14T08:18:34.376194Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/zadanie-systemd.service" added="2026-08-14T08:28:45.437717Z" modified="2026-08-14T08:28:45.437729Z" visited="2026-08-14T08:28:45.437718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-08-14T08:28:45.437727Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/zadanie-systemd.timer" added="2026-08-14T08:30:30.854143Z" modified="2026-08-14T08:38:34.883607Z" visited="2026-08-14T08:30:30.854145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-08-14T08:30:30.854148Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-14T08:38:34.883605Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/systemd/system/zadanie-systemd.timer" added="2026-08-14T08:36:17.348085Z" modified="2026-08-14T08:38:08.107857Z" visited="2026-08-14T08:36:17.348086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-14T08:38:08.107855Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Pictures/Screenshots/Screenshot%20From%202026-08-14%2010-43-44.png" added="2026-08-14T08:43:44.503965Z" modified="2026-08-14T08:43:44.503966Z" visited="2026-08-14T08:43:44.503965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2026-08-14T08:43:44.503965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie2/Screenshot%20From%202026-08-14%2010-43-44.png" added="2026-08-17T18:01:00.096072Z" modified="2026-08-17T18:01:00.096074Z" visited="2026-08-17T18:01:00.096072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-08-17T18:01:00.096073Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie3" added="2026-08-24T11:26:17.295463Z" modified="2026-08-24T11:26:17.295464Z" visited="2026-08-24T11:26:17.295463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-24T11:26:17.295463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie3/zadanie3.txt" added="2026-08-24T11:33:54.065115Z" modified="2026-08-24T11:45:40.521878Z" visited="2026-08-24T11:33:54.065116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-24T11:45:40.521877Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie3/Zadanie3_server.txt" added="2026-08-24T13:44:32.393529Z" modified="2026-08-24T13:45:48.148277Z" visited="2026-08-24T13:44:32.393530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-24T13:45:48.148275Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie3/zadanie3_server.txt" added="2026-08-24T13:45:50.749048Z" modified="2026-08-24T13:45:50.749052Z" visited="2026-08-24T13:45:50.749049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-24T13:45:50.749050Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie3/Zadanie3_test.txt" added="2026-08-24T13:45:54.969291Z" modified="2026-08-24T13:56:41.111935Z" visited="2026-08-24T13:45:54.969292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-08-24T13:56:41.111934Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
