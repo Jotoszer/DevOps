@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="chrome://global/skin/design-system/tokens-brand.css">
     <link rel="stylesheet" href="chrome://newtab/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Mon, 24 Aug 2026 11:27:12 GMT -->
+  <!-- Cached: Mon, 07 Sep 2026 17:27:22 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -90,7 +90,7 @@
         showNotifications: true
       }
     }, &quot;ActivityStream:Content&quot;));
-  }" className="submit-report-btn"></moz-button></moz-button-group></form></dialog><div class="discovery-stream ds-layout ds-layout-topsites"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div class="ds-top-sites"><section class="collapsible-section top-sites" data-section-id="topsites"><div class="section-top-bar"><h2 class="section-title-container " style="visibility:hidden"><span class="section-title"><span data-l10n-id="newtab-section-header-topsites"></span></span></h2></div><div><div class="top-sites-list-wrapper"><ul role="group" aria-label="Shortcuts" class="top-sites-list"><li class="top-site-outer placeholder "><div class="top-site-inner"><a class="top-site-button" draggable="true" data-is-sponsored-link="false" aria-label="" title="" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer placeholder "><div class="top-site-inner"><a class="top-site-button" draggable="true" data-is-sponsored-link="false" aria-label="" title="" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer placeholder "><div class="top-site-inner"><a class="top-site-button" draggable="true" data-is-sponsored-link="false" aria-label="" title="" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://pastebin.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Just a moment..." title="Just a moment..." data-l10n-args="{&quot;title&quot;:&quot;Just a moment...&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="J"><div></div><div class="top-site-icon default-icon" data-fallback="" style="background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA30lEQVQ4T2NkgIKwyJj/MDYxtKySJkNvazUjI0gxSPP8ubNR9P38+ZOBnZ0dr1ll9R0MGAYkJqcyIBuGj59TWo9qAEwxPhrkJJgFJBsA0ozsIuobgG4DOh9kOwyAvIHhAmKiD1kNdQ2YM2sGAzMzM0ogEfIS1kBEjiaYn2HRhs7H6gV8CWfGvKUMb968BQcDFycHw7fvP4hPiS1dkxhCfJzhYThl/iqG+VO7UPMCejQh85XVdeEGwDSDTMOZmdCjFOaCNVv2MrQ3lIP1wQ2A5Uh86UBaQZ2Bg50NRTNIPQBopsk5l5gQ0gAAAABJRU5ErkJggg==)"></div></div></div><div class="title"><span class="title-label" dir="auto">Just a moment...</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Just a moment...&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.wikipedia.org/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Wikipedia" title="Wikipedia" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div class="top-site-icon rich-icon" style="background-image:url(data:image/png;base64,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)"></div></div></div><div class="title"><span class="title-label" dir="auto">Wikipedia</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.youtube.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="YouTube" title="YouTube" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="Y"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">YouTube</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" href="https://www.reddit.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Reddit" title="Reddit" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="R"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Reddit</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" href="https://addons.mozilla.org/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Add-ons for Firefox" title="Add-ons for Firefox" data-l10n-args="{&quot;title&quot;:&quot;Add-ons for Firefox&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="A"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/addons-mozilla@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Add-ons for Firefox</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Add-ons for Firefox&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li></ul></div><div class="edit-topsites-wrapper"></div></div></section></div></div></div></div><style data-styles="[[null]]"></style></div><div class="discovery-stream ds-layout "><div class="ds-column ds-column-12"><div class="ds-column-grid"><div></div></div></div><style data-styles="[[null]]"></style></div></div><dialog class="confirmation-dialog"><div class="modal"><section class="modal-message"></section><section class="button-group"><moz-button-group><moz-button onClick="function() {
+  }" className="submit-report-btn"></moz-button></moz-button-group></form></dialog><div class="discovery-stream ds-layout ds-layout-topsites"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div class="ds-top-sites"><section class="collapsible-section top-sites" data-section-id="topsites"><div class="section-top-bar"><h2 class="section-title-container " style="visibility:hidden"><span class="section-title"><span data-l10n-id="newtab-section-header-topsites"></span></span></h2></div><div><div class="top-sites-list-wrapper"><ul role="group" aria-label="Shortcuts" class="top-sites-list"><li class="top-site-outer placeholder "><div class="top-site-inner"><a class="top-site-button" draggable="true" data-is-sponsored-link="false" aria-label="" title="" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer placeholder "><div class="top-site-inner"><a class="top-site-button" draggable="true" data-is-sponsored-link="false" aria-label="" title="" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer placeholder "><div class="top-site-inner"><a class="top-site-button" draggable="true" data-is-sponsored-link="false" aria-label="" title="" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://pastebin.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Just a moment..." title="Just a moment..." data-l10n-args="{&quot;title&quot;:&quot;Just a moment...&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="J"><div></div><div class="top-site-icon default-icon" data-fallback="" style="background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA30lEQVQ4T2NkgIKwyJj/MDYxtKySJkNvazUjI0gxSPP8ubNR9P38+ZOBnZ0dr1ll9R0MGAYkJqcyIBuGj59TWo9qAEwxPhrkJJgFJBsA0ozsIuobgG4DOh9kOwyAvIHhAmKiD1kNdQ2YM2sGAzMzM0ogEfIS1kBEjiaYn2HRhs7H6gV8CWfGvKUMb968BQcDFycHw7fvP4hPiS1dkxhCfJzhYThl/iqG+VO7UPMCejQh85XVdeEGwDSDTMOZmdCjFOaCNVv2MrQ3lIP1wQ2A5Uh86UBaQZ2Bg50NRTNIPQBopsk5l5gQ0gAAAABJRU5ErkJggg==)"></div></div></div><div class="title"><span class="title-label" dir="auto">Just a moment...</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Just a moment...&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.wikipedia.org/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Wikipedia" title="Wikipedia" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Wikipedia</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.youtube.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="YouTube" title="YouTube" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="Y"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">YouTube</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" href="https://www.reddit.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Reddit" title="Reddit" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="R"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Reddit</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" href="https://addons.mozilla.org/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Add-ons for Firefox" title="Add-ons for Firefox" data-l10n-args="{&quot;title&quot;:&quot;Add-ons for Firefox&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="A"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/addons-mozilla@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Add-ons for Firefox</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="menu" aria-expanded="false" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Add-ons for Firefox&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li></ul></div><div class="edit-topsites-wrapper"></div></div></section></div></div></div></div><style data-styles="[[null]]"></style></div><div class="discovery-stream ds-layout "><div class="ds-column ds-column-12"><div class="ds-column-grid"><div></div></div></div><style data-styles="[[null]]"></style></div></div><dialog class="confirmation-dialog"><div class="modal"><section class="modal-message"></section><section class="button-group"><moz-button-group><moz-button onClick="function() {
     [native code]
 }"></moz-button><moz-button type="primary" onClick="function() {
     [native code]
@@ -98,7 +98,7 @@
                       
                       " tabindex="0"></button><label for="abstracts" data-l10n-id="newtab-wallpaper-category-title-abstract">newtab-wallpaper-category-title-abstract</label></div><div><button id="solid-colors" style="background-color:#76C1FF" class="wallpaper-input
                       
-                      " tabindex="-1"></button><label for="solid-colors" data-l10n-id="newtab-wallpaper-category-title-colors">newtab-wallpaper-category-title-colors</label></div><div><button id="firefox" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/e24afb3d-a1f1-4b9f-9a57-940f5ef7261c.svg);background-position:bottom left" class="wallpaper-input
+                      " tabindex="-1"></button><label for="solid-colors" data-l10n-id="newtab-wallpaper-category-title-colors">newtab-wallpaper-category-title-colors</label></div><div><button id="firefox" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819200624--c01058f4-5b6c-4ac4-9708-54d5bee8f450--91a8634f-15b5-4b17-836b-de3225cb3b17.svg);background-position:center right" class="wallpaper-input
                       
                       " tabindex="-1"></button><label for="firefox" data-l10n-id="newtab-wallpaper-category-title-firefox">newtab-wallpaper-category-title-firefox</label></div><div><button id="photographs" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/e94b1e49-c518-40d6-98e3-dffab6cc370d.avif);background-position:center" class="wallpaper-input
                       
@@ -134,14 +134,14 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"isDefault": true,
-				"url": "https://allegro.pl/affiliate?redirect_url=https://allegro.pl?utm_medium%3Dafiliacja%26utm_source%3Dctr_b%26utm_campaign%3D0faa3fe0-4f6c-45fb-8df0-215637e85526&admarketplaceevent=350230514236391424&mfadid=adm",
+				"url": "https://allegro.pl/affiliate?redirect_url=https://allegro.pl?utm_medium%3Dafiliacja%26utm_source%3Dctr_b%26utm_campaign%3D0faa3fe0-4f6c-45fb-8df0-215637e85526&admarketplaceevent=355399982621138944&mfadid=adm",
 				"hostname": "allegro",
 				"sendAttributionRequest": false,
 				"label": "allegro",
 				"show_sponsored_label": true,
 				"sponsored_position": 1,
-				"sponsored_click_url": "https://ads.mozilla.org/v1/t?data=CqsKEgU3NTEyNxoLCLfPsNQGEO7q3joiCwiP1bDUBhClir8qKgdhbGxlZ3JvMiQwMWEyZTJmMy02YzhmLTRkNjEtOTc3Ny0wODhlODRiNGY0MTk6AlBMcg1uZXd0YWJfdGlsZV8xegIwMoIBRk1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTUyLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTUyLjCYAQKgAQGoAQOwAQO4AQLCASQwMWEwMzM4Ni0zZWYxLTcxMDgtYmZiMS01YTMzMTZiMjU5YjTIAQGSAb4ICrsIaHR0cHM6Ly9icmlkZ2UucGR4MS5hZG1hcmtldHBsYWNlLm5ldC9jdHA_dmVyc2lvbj0xLjAuMCZlbmNwPWdySXd4UjR2Sm1hemZCYVc1UWJuSEYzdklwa1g3UmNkanBrWDRaTHI0Q0hhNFFIWDRDTGQ3bjd2SSUzRDN3eHdlTnhuY3V4WmQ0c3dFckNGdjRqa19EM0NlNGlxa1lDR3Zvc2xfbEJDYm54JTNEOHpmQ2JXNVFibmpHM3ZnQ2xuakZqdmdDOG5KRzRreGN6dkk5THpmdElvam13cWdDZmQxcHhfNFFmazRZSVhqRkVZc0Z3cWdDZmRmcDhaZnBEWDRwOFo0UWZfZkMyWTR0SXV4cjNrZ0NibnhSM09KcGRuSEZYWklCSVdqOTN2SXBrVzduM1dIbXdxZ0NibkhyM19pRjJ6MUNsbkhyN3dpRjJ6MUNMazF0SVdKJTNEd3FnQ2xXZnB4bkk5NFdIbndxZ0NsazRDMm5JOTRXSEYzbWlGMno0WkRYZlF4bkk5NFdIR0Vxam53cWdDeGExQ2xuSTk0V2lGenZJcGtYZlo4ZDduY3F4bVh2SXBrWjRDYllmWmJkZkMyWmZDbGExQ2JfNHAybnhtWFZqJTNEX2RKQ2tYN25Jd0lGMzdJcGtYN25Ja2lGMnpmQkl3czkzT3hwa1c1UWJuSVJla2dDZm5JRl9FRHFXekNsTmVmbUlGRSUzRExhRVoyWmZSNHBqbVhaSFFOTkNFbFczRWUySWs3UzJ3d0ZzcGNaam12NHhsSV9Ka0xramN3YUlDd1dGR2JaN0M3JTNEamxOMkZGOHJpRFhlQms3RjdDN3RGQkRZMlJOODJEd1RFbk41MSUzRGo3SjlFZzNEVFhqbklRaUdFRTE5cVppUnZWc1E4ZEJaRVZFbUFfSnc3QzNkZndmcThhaW1IZDNrN1BEbkVFNEZxZGZxNzIzJTNEN194UXdIZkZjWWpGdllpREluaUVJUjJxRUhJZHhrSkVjcmp3NyUzRDJrWHFzY2NtRUZFWWZrdlNIQ0lReFJqdEo5NGNGRmNDM0R6Y0R3NEdFREhtakQ0MzRRTkVzcElfMnd3V0JGd1VCQkRZM3Frd2ZxSXBpZDRhRnBxXzdDN3R4a3o5RiUzREh3ZnE3UWlGX1NCbHpfM2MyV0NEMzRDQkRZMm53VnhkSWdqa2MyNEV2WHhrdzVmOTJXeHJjVEMlM0QzZ0JxVGRpbGNRSmNjMmpFY2wzazNlREM0OWpydlBKbHpuM2wzaWlrd3BFOWpPSWtrd2ZrMm54UjNWeFprUzFZJTJGTTZRVFM3bnd2SFprdWZDVHVmQ1R1ZkNUdWZDVHVmQklReHBrVzVRbGQ0Q2JUZnRXWTFwYlg1cGJUZnRXWGZwYnI1dFdUNXRXVEhuY1FpbUl2SiUzRFhLSG16VUk5RVFpR0l3EiAetymaTKVmzg1IrsnTCpV6PJ6yArb0brCain9CPLhOgw",
-				"sponsored_impression_url": "https://ads.mozilla.org/v1/t?data=CusDEgU3NTEyNxoLCLfPsNQGEO7q3joiCwiP1bDUBhClir8qKgdhbGxlZ3JvMiQwMWEyZTJmMy02YzhmLTRkNjEtOTc3Ny0wODhlODRiNGY0MTk6AlBMcg1uZXd0YWJfdGlsZV8xegIwMoIBRk1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTUyLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTUyLjCYAQGgAQGoAQOwAQO4AQLCASQwMWEwMzM4Ni0zZWYxLTcxMDgtYmZiMS01YTMzMTZiMjU5YjTIAQGSAf4BCvsBaHR0cHM6Ly9pbXAubXQ0OC5uZXQvc3RhdGljP2lkPTdSSHpmT0lYakZFWXNCZHZJcGtaNENiWWZaYmRmQzJZZlpIWjFDbGtmUTJuajl3V0lCZHZJcGtZN240WUlGY2tpR0l3NUZ3cWdDcWE0cExueCUzRFhOSG1FdUlGJTJCazVGd3FnQ2xXZnB4bkhGMnV4bUVUSUY0a2lGelU1RndxZ0NmZGZwOFpmcERYNHBmWGZDTCUyQmZwcWs0dElaSiUzRHprNUYlMkJkSkY3d3hRa1g3bkl3SUYzS2lGMnpmQkl3czkzd3huJTJCTkpjek9pRjNLeDk3dkhtRHoSIJbZgWcdTQKnT1-SiDSVDlfe1Pqt1r2-VMf_8aWJkhVl",
+				"sponsored_click_url": "https://ads.mozilla.org/v1/t?data=Cq0KEgU3NTEyNxoMCLfm-9QGEOX9vKECIgwI9Of71AYQ8vnw6gIqB2FsbGVncm8yJGYxNmM1Njg5LWRhMzQtNDI0OS04NmIwLTRkMTA0ZmY1ZmIxYzoCUExyDW5ld3RhYl90aWxlXzF6AjAyggFGTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0OyBydjoxNTMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTMuMJgBAqABAagBA7ABA7gBAsIBJDAxYTA3Y2U4LWY0MTgtN2VkMy1hZDUxLTk0ZDAzZDNiYzdmN8gBAZIBvggKuwhodHRwczovL2JyaWRnZS5wZHgxLmFkbWFya2V0cGxhY2UubmV0L2N0cD92ZXJzaW9uPTEuMC4wJmVuY3A9Z3JJd3hSNHZKbWF6ZkJhVzVRYm5IRjN2SXBrWDdSY2RqcGtYNFpMYTFwYlhmQ0RhMXBxWTduN3ZJJTNEM3d4d2VOeG5jdXhaZDRzd0RYQ0d2bzREekRJcncxaXF3YUNFMzQ0bHpERENibnglM0Q4emZDYlc1UWJuakczdmdDOG5qRmp2Z0M4bkpHNGt4Y3p2STlMemZ0SW9qbXdxZ0NmZDFweF80UWZrNFlJWGpGRVlzRndxZ0NmZDRDZl8xQ3FhZlFIWWZDbFoxcHFrNHRJdXhyM2tnQ2JueFIzT0pwZG5IRlhaSUJJV2o5M3ZJcGtXN24zV0htd3FnQ2JuSHIzX2lGMnoxQ2xuSHI3d2lGMnoxQ0xrMXRJV0olM0R3cWdDbFdmcHhuSTk0V0hud3FnQ2xrNEMybkk5NFdIRjNtaUYyejRaRFhmUXhuSTk0V0hHRXFqbndxZ0N4YTFDbG5JOTRXaUZ6dklwa1hmWjhkN25jcXhtWHZJcGtaNENEWjFDcV8xcDhtMUM4a2ZaRF80UUxueG1YVmolM0RfZEpDa1g3bkl3SUYzN0lwa1g3bklraUYyemZCSXdzOTNPeHBrVzVRYm5JUmVrZ0NmbklGX0VEcVd6Q2xOZWZtSUZFJTNETGFFWjJaZlI0cGptWFpIUU5OQ0VsVzNFZTJJazdTMnd3RnNwY1pqbXY0eGxJX0prTGtqY3dhSUN3V0ZHYlo3QzclM0RqbE4yRkY4cmlEWGVCazdGN0M3dEZCRFkyUk44MkR3VEVuTjUxJTNEajdKOUVnM0RUWGpuSVFpR0VFMTlxWmlSdlZzUThkQlpFVkVtQV9KdzdDM2Rmd2ZxOGFpbUhkM2s3UERuRUU0RnFkZnE3MjMlM0Q3X3hRd0hmRmNZakZ2WWlESW5pRUlSMnFFSElkeGtKRWNyanc3JTNEMmtYcXNjY21FRkVZZmt2U0hDSVF4Ump0Sjk0Y0ZGY0MzRHpjRHc0R0VESG1qRDQzNFFORXNwSV8yd3dXQkZ3VUJCRFkzcWt3ZnFJcGlkNGFGcHFfN0M3dHhrejlGJTNESHdmcTdRaUZfU0Jsel8zYzM5ZkViZDJtdWdDa2RCN0M3dGlkNG1JR2pRSXdFVzRjN1IzUk5aSHJjdDElM0R4WGlsY1FKY2MyakVjbDNrM2VEQzQ5anJ2UEpsem4zbDNpaWt3cEU5ak9Ja2t3ZmsybnhSM1Z4WmtTMVklMkZNNlFUUzdud3ZIWmt1ZkNUdWZDVHVmQ1R1ZkNUdWZCSVF4cGtXNVFsZGZwYlRmdFdZMXBiWDVwYlRmdFdYZnBicjV0V1Q1dFdUSG5jUWltSXZKJTNEWEtIbXpVSTlFUWlHSXcSIAvsIzDs_uneQW9mXNbUH-yW-6wBPBeNMTf6jJ6hqEFP",
+				"sponsored_impression_url": "https://ads.mozilla.org/v1/t?data=CvMDEgU3NTEyNxoMCLfm-9QGEOX9vKECIgwI9Of71AYQ8vnw6gIqB2FsbGVncm8yJGYxNmM1Njg5LWRhMzQtNDI0OS04NmIwLTRkMTA0ZmY1ZmIxYzoCUExyDW5ld3RhYl90aWxlXzF6AjAyggFGTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0OyBydjoxNTMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTMuMJgBAaABAagBA7ABA7gBAsIBJDAxYTA3Y2U4LWY0MTgtN2VkMy1hZDUxLTk0ZDAzZDNiYzdmN8gBAZIBhAIKgQJodHRwczovL2ltcC5tdDQ4Lm5ldC9zdGF0aWM_aWQ9N1JIemZPSVhqRkVZc0Jkdklwa1o0Q0RaMUNxJTJCMXA4bWZRbFhmWkwlMkI0cDJuajl3V0lCZHZJcGtZN240WUlGY2tpR0l3NUZ3cWdDcWE0cExueCUzRFhOSG1FdUlGJTJCazVGd3FnQ2xXZnB4bkhGMnV4bUVUSUY0a2lGelU1RndxZ0NmZDRDZiUyQjFDcWFmUUglMkJmUTJaNENxbTF0SVpKJTNEems1RiUyQmRKRjd3eFFrWDduSXdJRjNLaUYyemZCSXdzOTN3eG4lMkJOSmN6T2lGM0t4OTd2SG1EehIgapqyBH_Z6Oso5N_bZuPxphdwlKt8sZRCfXaj7mcRsjQ",
 				"sponsored_tile_id": "CAMSB2FsbGVncm8",
 				"partner": "amp",
 				"block_key": "CAMSB2FsbGVncm8",
@@ -152,14 +152,14 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"isDefault": true,
-				"url": "https://temuaffiliateprogram.pxf.io/7azad5?subId1=350230514236391424&mfadid=adm",
+				"url": "https://temuaffiliateprogram.pxf.io/7azad5?subId1=355399982621138944&mfadid=adm",
 				"hostname": "temuaffiliateprogram.pxf",
 				"sendAttributionRequest": false,
 				"label": "Temu",
 				"show_sponsored_label": true,
 				"sponsored_position": 2,
-				"sponsored_click_url": "https://ads.mozilla.org/v1/t?data=CrQIEgU3NTE2ORoLCLfPsNQGEMSV4DoiCwiP1bDUBhClir8qKgRUZW11MiQwMWEyZTJmMy02YzhmLTRkNjEtOTc3Ny0wODhlODRiNGY0MTk6AlBMcg1uZXd0YWJfdGlsZV8yegIwMoIBRk1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTUyLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTUyLjCYAQKgAQGoAQOwAQO4AQLCASQwMWEwMzM4Ni0zZWYxLTcxMDgtYmZiMS01YTMzMTZiMjU5YjTIAQKSAcoGCscGaHR0cHM6Ly9icmlkZ2UucGR4MS5hZG1hcmtldHBsYWNlLm5ldC9jdHA_dmVyc2lvbj0xLjAuMCZlbmNwPWdySXd4UjR2Sm1hemZCYVc1UWJuSEYzdklwa1k3UmNkanBrWDRaTHI0Q0hhNFFIWDRDTGQ3bjd2SSUzRDN3eHdlTnhuY3V4WmQ0c3dFckNGdjRqa19EM0NlNGlxa1lDR3Zvc2xfbEJDYm54JTNEOHpmQ2JXNVFibmpHM3ZnQ2xuakZqdmdDOG5KRzRreGN6dkk5THpmdElvam13cWdDZmQxcExyZlFmWjF0SVhqRkVZc0Z3cWdDZmRmcDhaZnBEWDRwOFo0UWZfZkMyWTR0SXV4cjNrZ0NibnhSM09KcGRuSEZYWklCSVdqOTN2SXBrVzduM1dIbXdxZ0NibkhyM19pRjJ6MUNsbkhyN3dpRjJ6ZkNia2ZDRG54JTNEWHZJcGtYZnBicjduM1p4JTNEN3ZJcGtYNHB4VzduM1p4JTNEY3FqbndxZ0N4ZGZDSF83bjNaeCUzRGNkSTlJdklwa2FmUUhaN24zWnglM0R3VmlGMnpmQ3FXNEJJTkk5NFRpRjJ6ZlpEV2ZRZlc0Q2xrZlpsWDFwcVcxQzJfN1I0VEpyM1VqRmt6Zk9JbklGRXFCRjJ6ZkJJbmolM0R3cWdDbG5JR05rSFJiemZ0YVc3bklXanBrWjduRVVFRTdmZ0RYODJDNG5FdzMlMkYxY3htRkNFZEhtdWs3Qzd0aTlxZDQlM0RkdENjeFhIazM0M212UzNsRUUyRmNfalI3cEVkNDNFUmNUNGt3T2pRanJmd2VFRXBOVEVsWG9mRmMyM2NlMUZEZFg0OTRVeGtjbDdDN3RFbWNZMms0a0MlM0QzZkJyZUNmZDN2RHJFSURETjZFRDJyaWtjYUlyamNDUk5aQ0NMZEUlM0RfcmpaN2kya2NvMWx4azN0SVlqJTNEelpnQiUyRk02UVRTMVklMkZuaUZ3UWdCa1gxWWtYMVlrWDFZa1gxWWtYN240V2dDYlVmWmZrZnRXVzVwOGExcERUZnRXVzVwbFdmcHhUNXRXVDV0WE9IRjRvSW53VEpjelFKbV9xakY0dmpuRHkSIKj4pP-agihsXDOpEZ4cLnFcOiHAaqHQw50aHMQ7A2gC",
-				"sponsored_impression_url": "https://ads.mozilla.org/v1/t?data=CuYDEgU3NTE2ORoLCLfPsNQGEMSV4DoiCwiP1bDUBhClir8qKgRUZW11MiQwMWEyZTJmMy02YzhmLTRkNjEtOTc3Ny0wODhlODRiNGY0MTk6AlBMcg1uZXd0YWJfdGlsZV8yegIwMoIBRk1vemlsbGEvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6MTUyLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTUyLjCYAQGgAQGoAQOwAQO4AQLCASQwMWEwMzM4Ni0zZWYxLTcxMDgtYmZiMS01YTMzMTZiMjU5YjTIAQKSAfwBCvkBaHR0cHM6Ly9pbXAubXQ0OC5uZXQvc3RhdGljP2lkPTdSSHpmT0lYakZFWXNCZHZJcGtaNENiWWZaYmRmQzJZZlpIWjFDbGtmUTJuajl3V0lCZHZJcGtZN240WUlGY2tpR0l3NUZ3cWdDbFc0cGxkN1JlVEhGNHdKRkVVanRkdklwa1hmcGJyN25jcTVHNHdKJTNERVFqJTNEd1ZKT2R2SXBrWjRDYllmWmJkZkMyWmZDbGExQ2IlMkI0cHFueG1YVmp0ZFVqRmRPSUc4emZPSW5JRkVxR213cWdDbG5JR05rSUc3VUhGWEtIbndxR3JlWWlGNHdnMnl5EiBx7DVSM_beBY-y6m43xzK43TBwLd2vSMiLeONSBMjuNQ",
+				"sponsored_click_url": "https://ads.mozilla.org/v1/t?data=CrAIEgU3NTE2ORoMCLfm-9QGEJrlvqECIgwI9Of71AYQ8vnw6gIqBFRlbXUyJGYxNmM1Njg5LWRhMzQtNDI0OS04NmIwLTRkMTA0ZmY1ZmIxYzoCUExyDW5ld3RhYl90aWxlXzJ6AjAyggFGTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0OyBydjoxNTMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTMuMJgBAqABAagBA7ABA7gBAsIBJDAxYTA3Y2U4LWY0MTgtN2VkMy1hZDUxLTk0ZDAzZDNiYzdmN8gBApIBxAYKwQZodHRwczovL2JyaWRnZS5wZHgxLmFkbWFya2V0cGxhY2UubmV0L2N0cD92ZXJzaW9uPTEuMC4wJmVuY3A9Z3JJd3hSNHZKbWF6ZkJhVzVRYm5IRjN2SXBrWTdSY2RqcGtYNFpMYTFwYlhmQ0RhMXBxWTduN3ZJJTNEM3d4d2VOeG5jdXhaZDRzd0RYQ0d2bzREekRJcncxaXF3YUNFMzQ0bHpERENibnglM0Q4emZDYlc1UWJuakczdmdDOG5qRmp2Z0M4bkpHNGt4Y3p2STlMemZ0SW9qbXdxZ0NmZDFwTHJmUWZaMXRJWGpGRVlzRndxZ0NmZDRDZl8xQ3FhZlFIWWZDbFoxcHFrNHRJdXhyM2tnQ2JueFIzT0pwZG5IRlhaSUJJV2o5M3ZJcGtXN24zV0htd3FnQ2JuSHIzX2lGMnoxQ2xuSHI3d2lGMnpmQ2JrZkNEbnglM0RYdklwa1hmcGJyN24zWnglM0Q3dklwa1g0cHhXN24zWnglM0RjcWpud3FnQ3hkZkNIXzduM1p4JTNEY2RJOUl2SXBrYWZRSFo3bjNaeCUzRHdWaUYyemZDcVc0QklOSTk0VGlGMnpmWkRkZlpxXzFDTFk0UXFZNHBmZDFDeFo3UjRUSnIzVWpGa3pmT0luSUZFcUJGMnpmQkluaiUzRHdxZ0NsbklHTmtIUmJ6ZnRhVzduSVdqcGtaN25FVUVFN2ZnRFg4MkM0bkV3MyUyRjFjeG1GQ0VkSG11azdDN3RpOXFkNCUzRGR0Q2N4WEhrMzQzbXZTM2xFRTJGY19qUjdwRWQ0M0VSY1Q0a3dPalFqcmZ3ZUVFcE5URWxYb2ZHSTgxRjdvRnBmZDRSJTJGWnhsRVlmcjQ4QnBjNUlERUkybjRPQmx1UklxdzFGRWM4QndFbDRtdWVzJTNEanIzRF9heGtrYTRFM1VqcnhZRnE0ZWlaTjk0bDJueFIzVnhaa1MxWSUyRk02UVRTN253dkhaa3VmQ1R1ZkNUdWZDVHVmQ1R1ZkJJUXhwa1c1UThrNHBiVGZ0V1kxcExkNXBiVGZ0V1hmcGJyNXRXVDV0V1RIbmNRaW1JdkolM0RYS0htelVJOUVRaUdJdxIgI8nYa99lyO4b36X8EN41JdbjHZ160GMRVuerWRtWP60",
+				"sponsored_impression_url": "https://ads.mozilla.org/v1/t?data=Cu4DEgU3NTE2ORoMCLfm-9QGEJrlvqECIgwI9Of71AYQ8vnw6gIqBFRlbXUyJGYxNmM1Njg5LWRhMzQtNDI0OS04NmIwLTRkMTA0ZmY1ZmIxYzoCUExyDW5ld3RhYl90aWxlXzJ6AjAyggFGTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0OyBydjoxNTMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTMuMJgBAaABAagBA7ABA7gBAsIBJDAxYTA3Y2U4LWY0MTgtN2VkMy1hZDUxLTk0ZDAzZDNiYzdmN8gBApIBggIK_wFodHRwczovL2ltcC5tdDQ4Lm5ldC9zdGF0aWM_aWQ9N1JIemZPSVhqRkVZc0Jkdklwa1o0Q0RaMUNxJTJCMXA4bWZRbFhmWkwlMkI0cDJuajl3V0lCZHZJcGtZN240WUlGY2tpR0l3NUZ3cWdDbFc0cGxkN1JlVEhGNHdKRkVVanRkdklwa1hmcGJyN25jcTVHNHdKJTNERVFqJTNEd1ZKT2R2SXBrWjRDRFoxQ3ElMkIxcDhtMUM4a2ZaRCUyQjRaZm54bVhWanRkVWpGZE9JRzh6Zk9JbklGRXFHbXdxZ0NsbklHTmtJRzdVSEZYS0hud3FHcmVZaUY0d2cyeXkSIEBZRvnwMBWfRxyyoqdPDzkRE54a_4Qoq9AWlnKwry7z",
 				"sponsored_tile_id": "CAMSBHRlbXU",
 				"partner": "amp",
 				"block_key": "CAMSBHRlbXU",
@@ -170,19 +170,19 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"isDefault": true,
-				"url": "https://www.adidas.pl/?cm_mmc=AdieSEM_adMarketplace-_-PL%20CPQV-_-PL%20CPQV-_-adidasPL-_-350230514236391424&cm_mmca1=PL&cm_mmca2=Exact&ds_kid=_dstrackerid&utm_source=admarketplace&utm_medium=SEM&utm_campaign=PL%20CPQV&utm_content=e350230514236391424&mfadid=adm",
-				"hostname": "adidas",
+				"url": "https://www.amazon.pl/?tag=pltxtadesk-21&ref=pd_sl_e49663efc09c61a79890f30047736656d740fa0d3da9e56db4bb9f94&mfadid=adm",
+				"hostname": "amazon",
 				"sendAttributionRequest": false,
-				"label": "adidas",
+				"label": "Amazon",
 				"show_sponsored_label": true,
 				"sponsored_position": 3,
-				"sponsored_click_url": "https://ads.mozilla.org/v1/t?data=CsQLEgU3NDYzMxoLCLfPsNQGEKiz4joiCwiP1bDUBhClir8qKgZhZGlkYXMyJDAxYTJlMmYzLTZjOGYtNGQ2MS05Nzc3LTA4OGU4NGI0ZjQxOToCUExyDW5ld3RhYl90aWxlXzN6AjAyggFGTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMJgBAqABAagBA7ABA7gBAsIBJDAxYTAzMzg2LTNlZjEtNzEwOC1iZmIxLTVhMzMxNmIyNTliNMgBA5IB2AkK1QlodHRwczovL2JyaWRnZS5wZHgxLmFkbWFya2V0cGxhY2UubmV0L2N0cD92ZXJzaW9uPTEuMC4wJmVuY3A9Z3JJd3hSNHZKbWF6ZkJhVzVRYm5IRjN2SXBrWjdSY2RqcGtYNFpMcjRDSGE0UUhYNENMZDduN3ZJJTNEM3d4d2VOeG5jdXhaZDRzd0VyQ0Z2NGprX0QzQ2U0aXFrWUNHdm9zbF9sQkNibnglM0Q4emZDYlc1UWJuakczdmdDbG5qRmp2Z0M4bkpHNGt4Y3p2STlMemZ0SW9qbXdxZ0NmZDFweF80UUxhZnRJWGpGRVlzRndxZ0NmZGZwOFpmcERYNHA4WjRRZl9mQzJZNHRJdXhyM2tnQ2JueFIzT0pwZG5IRlhaSUJJV2o5M3ZJcGtXN24zV0htd3FnQ2JuSHIzX2lGMnoxQ2xuSHI3d2lGMnoxQ3FyNHRJV0olM0R3cWdDbFdmcHhuSTk0V0hud3FnQ2xXZkN4bkk5NFdIRjNtaUYyejRaMm1mWmZuSTk0V0hHRXFqbndxZ0N4XzRRbG5JOTRXaUZ6dklwa1lmUXhtN25jcXhtWHZJcGtaNENiWWZaYmRmQzJaZkNsYTFDYl80cERueG1YVmolM0RfZEpDa1o3bkl3SUYzN0lwa1g3bklraUYyemZCSXdzOTNPeHBrVzVRYm5JUmVrZ0NmbklGX0VEcVd6Q2xOZWZtSUZFJTNETGFFWjNVRGRjX0lxY1ZFcmZZN0M3JTNEM1pFbDRGM1kzUTdpRmx3a2lFRXU0JTNESU9DWmpwSjl3MUNwdzRIRF9SSiUzRE5RSnBja0hGRThpZEU5RndJQkJGN2UyREklMkZzcXZCRmx6M2Z3Y25Fd0Raam00WWpkZVQybXclMkY0Uk5PMWwzQkhSNE9JRGRRMmt2VjMlM0Q0NENkMzgzUjMyaTlqM0olM0RFWmolM0RqQkJPRFkzbmpGZiUzRHYlM0RJJTNEY1JpRDM4QnFYN3NSY1JFRzczSG1ORTNyTkhzR3dOaSUzRHdHNGx1SHhjdjQybmo5eGxFMjdDNyUzRDNtY2xpbU5hQkQ0MmZEYzdFY05ISWwzcjdDN3RqQkRZM3dOdTRRN2VKcVhVQ251OEpxTlRpUmpTQmtOdURjTlA3Qzd0aU9EWTNRYndmcTdZRVplRDJrSHIyRWUxQ0Q3OERENFYzQkRZM3FFWXglM0R6VHhuTjdpUiUyRndmcUlhQ0M0QnNRZUZpdERZM25mWmZFZW5FbjRCRW5OcElEY0JzOTRGSiUzRGQlM0RFbnFkZnJOYTMlM0RjOERFeFo3QzclM0RIRzNkSXc0WmlRNEg3QzclM0RGcWQxSER3TklyRUhmcWQ1eHBlTkNENzJGRFhHMkdFUkNEdXVEbXZtQm43a0ZjanJDJTNEVFdCdyUyRndmcTd1RGNjYUh3SG1CJTNEdXdIa3c5Q0ZjZUlsOFczbnVmeG43cUk5NDM3QzRsN0M0bDdSN2tKcmZ6NlFUUzFZJTJGTTZPSXZpRmZ6NUNsTTVDbE01Q2xNNUNsTTVDbG5IcmJ6ZnRhcmZwYlc1cGJUZlFMWGZPV1c1cGJUZkNiVzRZV1Q1dFdUNSUzRDdOSG11bmlGWFRHbTRWSm4zZEhtd21JMnl5EiB1rWUEyz4El7wbHn6P7P0_SkzEpL19-X7422T_2mrD4w",
-				"sponsored_impression_url": "https://ads.mozilla.org/v1/t?data=CuwDEgU3NDYzMxoLCLfPsNQGEKiz4joiCwiP1bDUBhClir8qKgZhZGlkYXMyJDAxYTJlMmYzLTZjOGYtNGQ2MS05Nzc3LTA4OGU4NGI0ZjQxOToCUExyDW5ld3RhYl90aWxlXzN6AjAyggFGTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0OyBydjoxNTIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNTIuMJgBAaABAagBA7ABA7gBAsIBJDAxYTAzMzg2LTNlZjEtNzEwOC1iZmIxLTVhMzMxNmIyNTliNMgBA5IBgAIK_QFodHRwczovL2ltcC5tdDQ4Lm5ldC9zdGF0aWM_aWQ9N1JIemZPSVhqRkVZc0Jkdklwa1o0Q2JZZlpiZGZDMllmWkhaMUNsa2ZRMm5qOXdXSUJkdklwa1k3bjRZSUZja2lHSXc1RndxZ0NxJTJCNFoybnglM0RYTkhtRXVJRiUyQms1RndxZ0NsV2ZweG5IRjJ1eG1FVElGNGtpRnpVNUZ3cWdDZmRmcDhaZnBEWDRwZlhmQ0wlMkJmcHFrNEJJWkolM0R6azVGJTJCZEpGN3d4UWtaN25Jd0lGM0tpRjJ6ZkJJd3M5M3d4biUyQk5KY3pPaUYzS3g5N3ZIbUR6EiDYlpAjiHm3wLhkeblnSGShOVEmSp6f9OYk3vWcelbMIw",
-				"sponsored_tile_id": "CAMSBmFkaWRhcw",
+				"sponsored_click_url": "https://ads.mozilla.org/v1/t?data=CrQKEgU3NDM1NxoMCLfm-9QGEP22wKECIgwI9Of71AYQ8vnw6gIqBkFtYXpvbjIkZjE2YzU2ODktZGEzNC00MjQ5LTg2YjAtNGQxMDRmZjVmYjFjOgJQTHINbmV3dGFiX3RpbGVfM3oCMDKCAUZNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2OjE1My4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE1My4wmAECoAEBqAEDsAEDuAECwgEkMDFhMDdjZTgtZjQxOC03ZWQzLWFkNTEtOTRkMDNkM2JjN2Y3yAEDkgHGCArDCGh0dHBzOi8vYnJpZGdlLnBkeDEuYWRtYXJrZXRwbGFjZS5uZXQvY3RwP3ZlcnNpb249MS4wLjAmZW5jcD1nckl3eFI0dkptYXpmQmFXNVFibkhGM3ZJcGtaN1JjZGpwa1g0WkxhMXBiWGZDRGExcHFZN243dkklM0Qzd3h3ZU54bmN1eFpkUTNkN25IWjdhSXd2RERDRTFpd3dQRndqaWlxZGxKJTNEdjFpcUklMkZDUnZvNGx6RDJuZDRzcWNyQ3EzUWZrZFBGQzcxRWN2b0NSdjNqZHZ1M0dqaTNsX29GRTNUSmxfREZudUlpdzd2RkZ2VEpEekREQklXSFFrWGZwYlVmdElkaiUzRHF6Zk9JZEltcXpmT0l1eHIzV0dtd3FzcGtXN251cmlGMnpmWkRhMXBIbWZRTGE3UmNkSUc3X2lGMnpmWkRkZlpxXzFDTFk0UThYZkNmYTFDMms3bmRaajkyemZ0SVlqJTNEN1RnRklOSjk0dzdSZWtqJTNEd3FnQ2JuSTllUWlGMnpmdElOeHBmekNSdmNzRGREM0NjNEVsd2FDYzNjamxkdmZwNDRFbHdhQ0UzRXNsZFMzRzNmRFpla0NFZldzbFhDZnA0SHNxa1pDZDNjc2NOUElZSVFqOXd2SXBrX2ZCSVF4bkV2SXBrWGZwOGE0dElXSiUzRHdxZ0NsV2ZweG5JOTRXSG53cWdDbFdmQ3FuSTk0V0hGM21pRjJ6NFoyWjRDeG5JOTRXSEdFcWpud3FnQ0xYZlpibkk5NFdpRnp2SXBrWWZwYmQ3bmNxeG1Ydklwa1o0Q0RaMUNxXzFwOG0xQzhrZlpEXzRabG54bVhWaiUzRF9kSkNrWjduSXdJRjM3SXBrWDduSWtpRjJ6ZkJJd3M5M094cGtXNVFibklSZWtnQ2ZuSUZfRURxV3pDbE5lZm1JRkUlM0RMYUVaSVV4RHVGQzk0d0N3Y2tzUXhhQmw3dkRERVpKa0hXQlFOdkh3bGRqd2p1eHA0SDdDNyUzRDNFTm9FRl9wakQ0UEN3TnFCRjQ4MSUzRGRIM2NxWjE5M3JqUURaQ2Q3NEVrY0lEcmJyZnd3OGl3TFlqa0V2aUZrckpyTkg0bHpwc3REWTJSTFgzR2VVQmN2WTNuV1dEd0lkRCUzRGREQnBlNkJHdmY3QzclM0Q3Qzd0MWNqUUVubGRFREVQeGtOMTRjdzY3Qzd0aXFjJTNEQm1jT2ZFRUhKbjdISFpjMkpHTmNJUU4xRjl2NEJaZW8xbHZON0M3JTNERmN2QkVxVGFpRGx3Zmsyd2ZrMm54UjNWeFprUzFZJTJGTTZRVFM3bnd2SFprdWZDVHVmQ1R1ZkNUdWZDVHVmQklReHBrVzVROFoxQ2JUZnRXWTFweFc1cGJUZnRXWGZwYnI1dFdUNXRXVEhuY1FpbUl2SiUzRFhLSG16VUk5RVFpR0l3EiBU5FP7l_N464RMFMx7s-y6iKUGUSLWlYxt-4lcHiWTNQ",
+				"sponsored_impression_url": "https://ads.mozilla.org/v1/t?data=CvADEgU3NDM1NxoMCLfm-9QGEP22wKECIgwI9Of71AYQ8vnw6gIqBkFtYXpvbjIkZjE2YzU2ODktZGEzNC00MjQ5LTg2YjAtNGQxMDRmZjVmYjFjOgJQTHINbmV3dGFiX3RpbGVfM3oCMDKCAUZNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2OjE1My4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE1My4wmAEBoAEBqAEDsAEDuAECwgEkMDFhMDdjZTgtZjQxOC03ZWQzLWFkNTEtOTRkMDNkM2JjN2Y3yAEDkgGCAgr_AWh0dHBzOi8vaW1wLm10NDgubmV0L3N0YXRpYz9pZD03Ukh6Zk9JWGpGRVlzQmR2SXBrWjRDRFoxQ3ElMkIxcDhtZlFsWGZaTCUyQjRwMm5qOXdXSUJkdklwa1k3bjRZSUZja2lHSXc1RndxZ0NsV2ZRTGs3UmVUSEY0d0pGRVVqdGR2SXBrWGZwYnI3bmNxNUc0d0olM0RFUWolM0R3VkpPZHZJcGtaNENEWjFDcSUyQjFwOG0xQzhrZlpEJTJCNFpsbnhtWFZqdGRVakZkT0lHOHpmWUluSUZFcUdtd3FnQ2xuSUdOa0lHN1VIRlhLSG53cUdyZVlpRjR3ZzJ5eRIgVJfI0LCQcK7JpChrN6fgO6Hr7ebNznpuA4gqTAsftEs",
+				"sponsored_tile_id": "CAMSBmFtYXpvbg",
 				"partner": "amp",
-				"block_key": "CAMSBmFkaWRhcw",
+				"block_key": "CAMSBmFtYXpvbg",
 				"attribution": null,
-				"favicon": "https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xMDAzLzYwZTM1MzU5OGNlOTRkYjM3ZTZkZjhkMTI2M2NmOGZkZmI3N2RmOWFmZDg1MjdiYzcxM2FlMzdiN2RmNDVjYjYuanBnEiDcwbunelqnjvbMq3zz8dKfZtPHywiueb270fsArUBZTg",
+				"favicon": "https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xMDA5L2U1Y2JiODkxY2VlODQyMTI4ZjJhMzJjMjMyYjA4ZDg5Y2ZhN2I0ZmU2OTllMmY5YWY3OTYyY2Q2NmQ0MzRlMmYuSlBHEiB2tUyBPQI59PHRMtzI2KgW6uYtgY3XIflTk2YYEY1nWQ",
 				"faviconSize": 200,
 				"typedBonus": true
 			},
@@ -202,27 +202,18 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 280,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 16,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fpastebin.com%2F&revision=5885",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fpastebin.com%2F&revision=2790",
 				"hostname": "pastebin",
 				"typedBonus": true
 			},
 			{
-				"bookmarkGuid": null,
-				"frecency": 20875,
-				"guid": "vsZP6QMwZJs2",
-				"lastVisitDate": 1786429619426,
-				"title": "Wikipedia",
+				"isDefault": true,
 				"url": "https://www.wikipedia.org/",
-				"type": "history",
-				"favicon": "data:image/png;base64,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",
-				"faviconLength": 5867,
-				"faviconRef": "",
-				"faviconSize": 144,
-				"smallFavicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABfklEQVQ4T6WTsYrCQBCGf32KiHUK25BKsLALBASFQMAnECFiZ2MaSa0WdrGwE0IsBLFUELtgY6FgIzbaiT6AejPcLoaT4/SmSHZ2d76Z+Xc3gW+73W53Mf7LP5lMJmgff94NFgkIkvg0WED+D4ii6F6r1bBcLtHr9VCpVGCaJqbTKfvFYhGWZXHCIAgwn89Rr9ehaRo6nQ64gtPphHQ6jfF4zMHk5/N5OI4jgf1+H4qiMCiXy2GxWPBYtkCB1+tVLgyHQ87k+z7W6zUajQYH0Pz5fGZwDLBaraDrOr5a4vLIMpkM/zebjTxZSjSZTKQfE5EWycSGarWK0WiE4/HI85QkDEN4nvcaQIGFQgHb7RaqqrIeFNRut2HbNgjYbDalFrEWBJLKLpVKyGazOBwOuFwuGAwGmM1maLVafDLP9uMekEjlchmGYXAr4oQI2O12pT4C8vIipVIpuK4rlabS9/t9TLxfAbvdjjV4NqpE3INYC+R8+h74MQnauxDxnB+OGM9ObbCbVQAAAABJRU5ErkJggg==",
-				"smallFaviconLength": 439,
-				"smallFaviconRef": "",
-				"smallFaviconSize": 16,
 				"hostname": "wikipedia",
+				"sendAttributionRequest": false,
+				"label": "Wikipedia",
+				"tippyTopIcon": "chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png",
+				"smallFavicon": "chrome://activity-stream/content/data/content/tippytop/favicons/wikipedia-org.ico",
 				"typedBonus": true
 			},
 			{
@@ -985,19 +976,19 @@ window.__STARTUP_STATE__ = {
 				"order": 110,
 				"theme": "dark",
 				"title": "firefox-d-dark",
-				"schema": 1780605309732,
+				"schema": 1787170391922,
 				"category": "firefox",
 				"attachment": {
-					"hash": "ffa31ae925ad95a749d6096745ea6af4f7cd58b0646b6c94777ac8a0a25722a9",
-					"size": 25117,
+					"hash": "e8b26d4e229b2a28eae74b7aa5631d8db431e3ee759d3238ec36a5d6d87169ab",
+					"size": 20430,
 					"filename": "desktop-wallpaper-d-dark-1920x1080.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/9f4e8a01-0d13-4c40-a005-3c119833a33f.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819204733--1a0b388c-db2c-4f86-b953-0e5302573258--ce4d91e8-abc7-4f63-963f-83385d6cd86a.svg",
 					"mimetype": "image/svg+xml"
 				},
-				"background_position": "bottom right",
+				"background_position": "top right",
 				"id": "1a0b388c-db2c-4f86-b953-0e5302573258",
-				"last_modified": 1780931540797,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/9f4e8a01-0d13-4c40-a005-3c119833a33f.svg",
+				"last_modified": 1787198084376,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819204733--1a0b388c-db2c-4f86-b953-0e5302573258--ce4d91e8-abc7-4f63-963f-83385d6cd86a.svg",
 				"thumbnail": null
 			},
 			{
@@ -1214,19 +1205,19 @@ window.__STARTUP_STATE__ = {
 				"order": 150,
 				"theme": "light",
 				"title": "firefox-g-light",
-				"schema": 1780605298862,
+				"schema": 1787166495153,
 				"category": "firefox",
 				"attachment": {
-					"hash": "e8dbbbd65fef02542c2e404efa3779d479052c9193cd5dfb6e4025df36720658",
-					"size": 9519,
+					"hash": "64bdcff7ed11c8bdc2b1845de7705e3da39159633d8426eff9847a503754a5ce",
+					"size": 16009,
 					"filename": "desktop-wallpaper-g-light-1920x1080.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/66cdcc52-7916-4bdd-94be-dc382261ef66.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819185317--2b1b54e2-19e7-4846-9d5b-ebbede82747b--aa4df1eb-b009-467f-b17b-0b73194286c7.svg",
 					"mimetype": "image/svg+xml"
 				},
-				"background_position": "bottom left",
+				"background_position": "top left",
 				"id": "2b1b54e2-19e7-4846-9d5b-ebbede82747b",
-				"last_modified": 1780931540799,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/66cdcc52-7916-4bdd-94be-dc382261ef66.svg",
+				"last_modified": 1787198084378,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819185317--2b1b54e2-19e7-4846-9d5b-ebbede82747b--aa4df1eb-b009-467f-b17b-0b73194286c7.svg",
 				"thumbnail": null
 			},
 			{
@@ -1327,38 +1318,38 @@ window.__STARTUP_STATE__ = {
 				"order": 30,
 				"theme": "dark",
 				"title": "firefox-desert-dark",
-				"schema": 1780605383845,
+				"schema": 1787173041884,
 				"category": "firefox",
 				"attachment": {
-					"hash": "bf9d8585696d53674a2792846b77114a24f27148b94b3c9bb25a82a2ce31939f",
-					"size": 80860,
+					"hash": "340c37f0ac9598af055ba6daa861e1b383617c6459f1c7dda63190374441cc34",
+					"size": 62905,
 					"filename": "wallpaper-landscape1-kit-desert-dark.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/2c387cda-3d68-4a45-8fd7-41aa4f7c9d2a.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819185205--36d49fb5-9fd4-4fa9-9504-2dd0b137d285--a6db06ef-39b8-4133-a41a-e198fbd6ae97.svg",
 					"mimetype": "image/svg+xml"
 				},
-				"background_position": "bottom right",
+				"background_position": "center left",
 				"id": "36d49fb5-9fd4-4fa9-9504-2dd0b137d285",
-				"last_modified": 1780931540816,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/2c387cda-3d68-4a45-8fd7-41aa4f7c9d2a.svg",
+				"last_modified": 1787198084388,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819185205--36d49fb5-9fd4-4fa9-9504-2dd0b137d285--a6db06ef-39b8-4133-a41a-e198fbd6ae97.svg",
 				"thumbnail": null
 			},
 			{
 				"order": 100,
 				"theme": "light",
 				"title": "firefox-c",
-				"schema": 1780605419579,
+				"schema": 1787166506090,
 				"category": "firefox",
 				"attachment": {
-					"hash": "054a4389ea9087583091de88a5aa45740a3ef067667a963c587208648df87176",
-					"size": 12260,
+					"hash": "049ff03eb918516a7dd4e795d7f9afc1bab6443ef6396b04c87e51caa722bc5b",
+					"size": 10269,
 					"filename": "desktop-wallpaper-c-light-1920x1080.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/f633134b-dc81-4b54-a8c0-61681e36c56e.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819200245--429c288c-8d92-4baa-aefb-a04719882454--cd2122fe-b227-4003-8e18-3cd2cc1c6204.svg",
 					"mimetype": "image/svg+xml"
 				},
 				"background_position": "top left",
 				"id": "429c288c-8d92-4baa-aefb-a04719882454",
-				"last_modified": 1780931540784,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/f633134b-dc81-4b54-a8c0-61681e36c56e.svg",
+				"last_modified": 1787198084371,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819200245--429c288c-8d92-4baa-aefb-a04719882454--cd2122fe-b227-4003-8e18-3cd2cc1c6204.svg",
 				"thumbnail": null
 			},
 			{
@@ -1511,19 +1502,19 @@ window.__STARTUP_STATE__ = {
 				"order": 120,
 				"theme": "light",
 				"title": "firefox-d",
-				"schema": 1780605306030,
+				"schema": 1787172996293,
 				"category": "firefox",
 				"attachment": {
-					"hash": "74988ebbc20bbc957f9b082793fea4f667e307aea3e873ba01a4f094e26e8452",
-					"size": 26913,
-					"filename": "desktop-wallpaper-d-1920x1080.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/3640c0ff-19a2-4f7b-a06a-fdc2232ddd4a.svg",
+					"hash": "568ab8b0fed9027ac5036fcd20433025d09ff6fd4279c2ddca2180d94a47eaca",
+					"size": 20168,
+					"filename": "desktop-wallpaper-d-light-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819201015--62aa72d9-b9f3-4f29-88f5-5120ee004e7c--4d48db83-de9c-44dd-bf12-20aa9152f6a5.svg",
 					"mimetype": "image/svg+xml"
 				},
-				"background_position": "bottom right",
+				"background_position": "top right",
 				"id": "62aa72d9-b9f3-4f29-88f5-5120ee004e7c",
-				"last_modified": 1780931540791,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/3640c0ff-19a2-4f7b-a06a-fdc2232ddd4a.svg",
+				"last_modified": 1787198084373,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819201015--62aa72d9-b9f3-4f29-88f5-5120ee004e7c--4d48db83-de9c-44dd-bf12-20aa9152f6a5.svg",
 				"thumbnail": null
 			},
 			{
@@ -1841,19 +1832,19 @@ window.__STARTUP_STATE__ = {
 				"order": 90,
 				"theme": "dark",
 				"title": "firefox-c-dark",
-				"schema": 1780605354633,
+				"schema": 1787170216141,
 				"category": "firefox",
 				"attachment": {
-					"hash": "600b8536a7ff982ee251a29ce1c4548b6ac1a6f5ce1dd4e0e628a2d24cf924e7",
-					"size": 12257,
+					"hash": "ce78182d597e078fcc3f2e0e1ef59b00bda1d2e6e89d8e68d8e21a64feac24b6",
+					"size": 10267,
 					"filename": "desktop-wallpaper-c-dark-1920x1080.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/f86b89b8-1e93-43a7-844a-8718462eb8cc.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819201311--8611e834-7285-4b7b-8d56-06eab6a0a227--28518a88-2c98-44b7-ad17-00c6cb774914.svg",
 					"mimetype": "image/svg+xml"
 				},
 				"background_position": "top left",
 				"id": "8611e834-7285-4b7b-8d56-06eab6a0a227",
-				"last_modified": 1780931540810,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/f86b89b8-1e93-43a7-844a-8718462eb8cc.svg",
+				"last_modified": 1787198084383,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819201311--8611e834-7285-4b7b-8d56-06eab6a0a227--28518a88-2c98-44b7-ad17-00c6cb774914.svg",
 				"thumbnail": null
 			},
 			{
@@ -1979,19 +1970,19 @@ window.__STARTUP_STATE__ = {
 				"order": 130,
 				"theme": "dark",
 				"title": "firefox-g-dark",
-				"schema": 1780605302700,
+				"schema": 1787165767316,
 				"category": "firefox",
 				"attachment": {
-					"hash": "e04003fa18aeca660ec8eeeedd9cf71653bdafc787c5aa5c7420b5abf8358c61",
-					"size": 9519,
+					"hash": "669e42fa36e047c23225972e1a56be8287e0c119c3a184f678afd6efa4eb409c",
+					"size": 8155,
 					"filename": "desktop-wallpaper-g-dark-1920x1080.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/5cd10c63-472c-48e3-800e-d75f5168328a.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819185340--94e8a3ce-1faf-4aa1-a52e-7e15c07ff627--d00502f9-f163-432d-bdb6-d54e7c36da10.svg",
 					"mimetype": "image/svg+xml"
 				},
-				"background_position": "bottom left",
+				"background_position": "top left",
 				"id": "94e8a3ce-1faf-4aa1-a52e-7e15c07ff627",
-				"last_modified": 1780931540813,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/5cd10c63-472c-48e3-800e-d75f5168328a.svg",
+				"last_modified": 1787198084386,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819185340--94e8a3ce-1faf-4aa1-a52e-7e15c07ff627--d00502f9-f163-432d-bdb6-d54e7c36da10.svg",
 				"thumbnail": null
 			},
 			{
@@ -2139,19 +2130,19 @@ window.__STARTUP_STATE__ = {
 				"order": 10,
 				"theme": "light",
 				"title": "firefox-orange",
-				"schema": 1780605446111,
+				"schema": 1787172577590,
 				"category": "firefox",
 				"attachment": {
-					"hash": "27eb5dbe3d52af1b09a7af87fd1cbde9dc550ab1de2736730d02737c482bd049",
-					"size": 10340,
-					"filename": "simplykit.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/e24afb3d-a1f1-4b9f-9a57-940f5ef7261c.svg",
+					"hash": "305c81072af8a9fbd5226c18b971d1d478c549c12e51bdc14b6fe7b5798171d7",
+					"size": 8810,
+					"filename": "wallpaper-kit-peek.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819200624--c01058f4-5b6c-4ac4-9708-54d5bee8f450--91a8634f-15b5-4b17-836b-de3225cb3b17.svg",
 					"mimetype": "image/svg+xml"
 				},
-				"background_position": "bottom left",
+				"background_position": "center right",
 				"id": "c01058f4-5b6c-4ac4-9708-54d5bee8f450",
-				"last_modified": 1780931540818,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/e24afb3d-a1f1-4b9f-9a57-940f5ef7261c.svg",
+				"last_modified": 1787198084391,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819200624--c01058f4-5b6c-4ac4-9708-54d5bee8f450--91a8634f-15b5-4b17-836b-de3225cb3b17.svg",
 				"thumbnail": null
 			},
 			{
@@ -2268,19 +2259,19 @@ window.__STARTUP_STATE__ = {
 				"order": 40,
 				"theme": "light",
 				"title": "firefox-desert-light",
-				"schema": 1780605389368,
+				"schema": 1787173081944,
 				"category": "firefox",
 				"attachment": {
-					"hash": "69f6bbc929f0dc9009c27d01b8274f450bacc2bc3ce59757525df791e3e6d395",
-					"size": 32801,
+					"hash": "96b14ef5896ee5738e405e7d4f01c733d21dff56459f6aaff546f4e01f3fe135",
+					"size": 24440,
 					"filename": "wallpaper-landscape1-kit-desert-light.svg",
-					"location": "main-workspace/newtab-wallpapers-v2/e8b55fa2-4445-46e6-b09a-2d9d7a42e559.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/20260819185224--dd9512ea-ea90-4d7b-9571-ab8fa3d52d51--c4c169fa-8c84-4cf3-87b5-46dad7dd43b7.svg",
 					"mimetype": "image/svg+xml"
 				},
 				"background_position": "center left",
 				"id": "dd9512ea-ea90-4d7b-9571-ab8fa3d52d51",
-				"last_modified": 1780931540805,
-				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/e8b55fa2-4445-46e6-b09a-2d9d7a42e559.svg",
+				"last_modified": 1787198084381,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/20260819185224--dd9512ea-ea90-4d7b-9571-ab8fa3d52d51--c4c169fa-8c84-4cf3-87b5-46dad7dd43b7.svg",
 				"thumbnail": null
 			},
 			{
@@ -2562,26 +2553,26 @@ window.__STARTUP_STATE__ = {
 				"region_code": "Poland",
 				"current_conditions": {
 					"url": "https://www.accuweather.com/en/pl/wrocaw/2-273125_1_al/current-weather/2-273125_1_al?lang=en-us&partner=web_mozilla_adc",
-					"summary": "Mostly sunny",
-					"icon_id": 2,
+					"summary": "Mostly cloudy",
+					"icon_id": 6,
 					"temperature": {
-						"c": 20,
-						"f": 68
+						"c": 18,
+						"f": 64
 					}
 				},
 				"forecast": {
 					"url": "https://www.accuweather.com/en/pl/wrocaw/2-273125_1_al/daily-weather-forecast/2-273125_1_al?lang=en-us&partner=web_mozilla_adc",
-					"summary": "Showers and a thunderstorm Friday evening through Saturday morning",
+					"summary": "Expect showers late Tuesday night",
 					"high": {
-						"c": 21,
-						"f": 70
+						"c": 22,
+						"f": 72
 					},
 					"low": {
-						"c": 8,
-						"f": 47
+						"c": 9,
+						"f": 49
 					}
 				},
-				"request_id": "286d15f15042439185a7eb1817a28a09",
+				"request_id": "311fefc651204f898d78b182acd93982",
 				"source": "merino"
 			}
 		],
@@ -2613,4 +2604,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-Á¨Õ3           jŒ*IÚeÒÿÿÿÿ       :about:home alt-data 1;27108,script version 20260403224657  üS
+Eöc(           jžóúIçktÿÿÿÿ       :about:home alt-data 1;19399,script version 20260403224657  ¿c

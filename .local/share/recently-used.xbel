@@ -173,4 +173,84 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/adam/Zadanie1" added="2026-08-24T14:05:03.023696Z" modified="2026-08-24T14:05:03.023700Z" visited="2026-08-24T14:05:03.023697Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-24T14:05:03.023698Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie1/Zadanie1%20test.txt" added="2026-08-24T14:05:27.508408Z" modified="2026-08-24T14:05:27.508415Z" visited="2026-08-24T14:05:27.508410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-08-24T14:05:27.508411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/devops-kurs/lekcja-08/dane/serwer-access.log" added="2026-09-07T17:28:38.755374Z" modified="2026-09-07T17:31:52.896064Z" visited="2026-09-07T17:28:38.755375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-09-07T17:31:52.896062Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zdanie4/dane" added="2026-09-14T09:32:13.998330Z" modified="2026-09-14T09:32:13.998332Z" visited="2026-09-14T09:32:13.998331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-09-14T09:32:13.998331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/dane-anon/serwer-access.log" added="2026-09-14T09:53:11.041697Z" modified="2026-09-14T10:18:06.564994Z" visited="2026-09-14T09:53:11.041698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-09-14T10:18:06.564992Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/dane-anon/serwery.csv" added="2026-09-14T09:53:16.090113Z" modified="2026-09-14T09:53:16.090117Z" visited="2026-09-14T09:53:16.090114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-09-14T09:53:16.090115Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/dane-anon/wlasciciele.csv" added="2026-09-14T09:53:21.497493Z" modified="2026-09-14T09:53:21.497496Z" visited="2026-09-14T09:53:21.497494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-09-14T09:53:21.497495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/Komentarz%20do%20zadania.txt" added="2026-09-14T10:29:55.256741Z" modified="2026-09-14T10:29:55.256747Z" visited="2026-09-14T10:29:55.256742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-14T10:29:55.256744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

@@ -48,11 +48,56 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/adam/Zadanie3/Zadanie3_test.txt" added="2026-08-24T13:45:58.588189Z" modified="2026-08-24T13:58:10.873532Z" visited="2026-08-24T15:56:41.539863+02">
+  <bookmark href="file:///home/adam/Zadanie3/Zadanie3_test.txt" added="2026-08-24T13:45:58.588189Z" modified="2026-09-14T10:29:57.016763Z" visited="2026-09-14T12:28:18.056759+02">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-08-24T13:58:10.873531Z" count="16"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-14T10:29:57.016763Z" count="71"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/devops-kurs/lekcja-08/dane/serwer-access.log" added="2026-09-07T17:28:42.438656Z" modified="2026-09-14T10:29:57.016765Z" visited="2026-09-14T12:28:18.057041+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-14T10:29:57.016764Z" count="52"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/dane-anon/serwer-access.log" added="2026-09-14T09:53:14.484954Z" modified="2026-09-14T10:29:57.016769Z" visited="2026-09-14T12:28:18.061222+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-14T10:29:57.016768Z" count="33"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/dane-anon/serwery.csv" added="2026-09-14T09:53:19.484671Z" modified="2026-09-14T10:29:57.016768Z" visited="2026-09-14T12:28:18.059359+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-14T10:29:57.016767Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/dane-anon/wlasciciele.csv" added="2026-09-14T09:53:23.902945Z" modified="2026-09-14T10:29:57.016766Z" visited="2026-09-14T12:28:18.060940+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-14T10:29:57.016766Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adam/Zadanie4/Komentarz%20do%20zadania.txt" added="2026-09-14T10:29:57.016758Z" modified="2026-09-14T10:29:57.016761Z" visited="2026-09-14T12:29:55.290718+02">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-14T10:29:57.016759Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
