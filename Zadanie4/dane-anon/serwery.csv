@@ -1,0 +1,8 @@
+nazwa,srodowisko,rola,cpu,ram_gb
+web-01,produkcja,web,4,8
+web-02,produkcja,web,4,8
+db-01,produkcja,baza,8,32
+web-03,testowe,web,2,4
+db-02,testowe,baza,4,16
+cache-01,produkcja,cache,2,8
+runner-01,testowe,ci,8,16

@@ -1,0 +1,1 @@
+Anonimizacja klientów IP jest pożądana z kilku względów. Po pierwsze, pełny adres IP jest traktowany jak dane osobowe (RODO). Drugim powodem anonimizacji są względy bezpieczeństwa, utrudnia to potencjalne ataki i wzmacnia cyberbezpieczeństwo.
