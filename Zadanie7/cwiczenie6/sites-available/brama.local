@@ -1,0 +1,11 @@
+upstream backend_aplikacji {
+server 127.0.0.1:8081 down;
+server 127.0.0.1:8082;
+}
+server {
+listen 8090;
+server_name brama.local;
+location / {
+proxy_pass http://backend_aplikacji;
+}
+}

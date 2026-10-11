@@ -1,0 +1,14 @@
+server {
+listen 127.0.0.1:8081;
+default_type text/plain;
+location / {
+return 200 "wersja 1\n";
+}
+}
+server {
+listen 127.0.0.1:8082;
+default_type text/plain;
+location / {
+return 200 "wersja 2\n";
+}
+}
