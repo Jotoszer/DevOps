@@ -1,0 +1,24 @@
+server {
+    listen 8443 ssl;
+    server_name api.wewnetrzna.test localhost;
+    ssl_certificate     /home/adam/Zadanie9/api.crt;
+    ssl_certificate_key /home/adam/Zadanie9/api.key;
+    ssl_protocols       TLSv1.2 TLSv1.3;
+ 
+    ssl_client_certificate /home/adam/Zadanie9/firma-root-ca.crt;
+    ssl_verify_client on;
+    ssl_verify_depth 2;
+ 
+    location /whoami {
+        default_type application/json;
+        return 200 '{"status":"ok", "klient":"$ssl_client_s_dn", "weryfikacja":"$ssl_client_verify"}\n';
+    }
+ 
+    location /admin {
+        if ($ssl_client_s_dn !~ "CN=klient1") {
+            return 403;
+        }
+        default_type application/json;
+        return 200 '{"status":"ok", "message":"Witaj w panelu admina!"}\n';
+    }
+}
