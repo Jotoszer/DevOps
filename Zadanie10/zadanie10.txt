@@ -1,0 +1,273 @@
+    1  /
+    2  fs
+    3  ls
+    4  ls -l
+    5  ls
+    6  ls demo
+    7  ls manual
+    8  git commit  -a
+    9  git commit /home/Readme.md
+   10  git commit /home/adam/README.md
+   11  git commit /home/adam/README.md -, 'Zadanie nr 1'
+   12  git commit /home/adam/README.md -m 'Zadanie nr 1'
+   13  git remote -v
+   14  git commit /home/adam/README.md -m 'Zadanie nr 1'
+   15  git add /home/adam/README.md
+   16  git commit /home/adam/README.md -m 'Zadanie nr 1'
+   17  git add /home/adam/README.md
+   18  git commit -m 'Zadanie nr 1
+   19  git remote -v
+   20  git all /etc/
+   21  git add /etc
+   22  git add /Zadanie 2
+   23  git add /Zadanie2
+   24  git add /home/adam/Zadanie2
+   25  cd /Zadanie2
+   26  cd /home/adam/Zadanie2
+   27  nano skrypt.sh
+   28  cd ~
+   29  cd /Zadanie2
+   30  cd /home/Adam/Zadanie2
+   31  cd /home/adam/Zadanie2
+   32  sudo cp zadanie-systemd.service /etc/systemd/system
+   33  sudo cp zadanie-systemd.timer /etc/systemd/system
+   34  sudo systemctl daemon-reload
+   35  sudo systemctl enable --now zadanie-systemd.timer
+   36  systemctl status zadanie-systemd.timer
+   37  curl -X OPTIONS -H "Origin: http://localhost:3000" -H "Access-Control-Request-Method: GET" -v http://localhost:8000
+   38  cd .
+   39  cd ~
+   40  cd ~/Zadanie3
+   41  python3 -m http.server 8000
+   42  curl -X OPTIONS 
+   43  curl -X OPTIONS -H "Origin: http://localhost:3000" -H "Access-Control-Request-Method: GET" -v http://localhost:8000
+   44  cd ~/Zadanie3
+   45  script zadanie3
+   46  curl -X OPTIONS -H "Origin: http://localhost:3000" -H "Access-Control-Request-Method: GET" -v http://localhost:8000
+   47  script Zadanie3_server.txt
+   48  script Zadanie3_test.txt
+   49  curl -X OPTIONS -H "Origin: http://localhost:3000" -H "Access-Control-Request-Method: GET" -v http://localhost:8000
+   50  git config --get gpg.format
+   51  sudo systemctl reboot --firmaware-setup
+   52  systemctl reboot --firmware-setup 
+   53  sudo systemctl reboot --firmware-setup 
+   54  sudo systemctl reboot -i --firmware-setup 
+   55  cd
+   56  mkdir -p ~/devops-kurs/lekcja-08/dane
+   57  cd ~/devops-kurs/lekcja-08/dane
+   58  cat > serwer-access.log <<'EOF'
+   59  10.0.3.14 - - [12/Mar/2026:08:14:03 +0100] "GET /index.html HTTP/1.1" 200 5312 "-"
+   60  "Mozilla/5.0"
+   61  10.0.3.27 - - [12/Mar/2026:08:14:11 +0100] "GET /static/logo.png HTTP/1.1" 200
+   62  18244 "-" "Mozilla/5.0"
+   63  10.0.3.14 - - [12/Mar/2026:08:15:02 +0100] "GET /api/koszyk HTTP/1.1" 200 431 "-"
+   64  "Mozilla/5.0"
+   65  192.168.10.5 - - [12/Mar/2026:08:15:44 +0100] "POST /api/platnosc/potwierdz
+   66  HTTP/1.1" 500 122 "-" "curl/8.5.0"
+   67  10.0.3.14 - - [12/Mar/2026:08:16:10 +0100] "POST /api/platnosc/potwierdz HTTP/1.1"
+   68  500 122 "-" "Mozilla/5.0"
+   69  10.0.3.51 - - [12/Mar/2026:08:16:59 +0100] "GET /katalog/buty HTTP/1.1" 200 9021
+   70  "-" "Mozilla/5.0"
+   71  203.0.113.9 - - [12/Mar/2026:08:17:20 +0100] "GET /admin/login HTTP/1.1" 401 173
+   72  "-" "python-requests/2.31"
+   73  203.0.113.9 - - [12/Mar/2026:08:17:21 +0100] "GET /admin/login HTTP/1.1" 401 173
+   74  "-" "python-requests/2.31"
+   75  203.0.113.9 - - [12/Mar/2026:08:17:22 +0100] "GET /admin/login HTTP/1.1" 401 173
+   76  "-" "python-requests/2.31"
+   77  10.0.3.27 - - [12/Mar/2026:08:18:03 +0100] "GET /index.html HTTP/1.1" 304 0 "-"
+   78  "Mozilla/5.0"
+   79  10.0.3.14 - - [12/Mar/2026:08:18:41 +0100] "POST /api/platnosc/potwierdz HTTP/1.1"
+   80  500 122 "-" "Mozilla/5.0"
+   81  10.0.3.88 - - [12/Mar/2026:08:19:07 +0100] "GET /katalog/kurtki HTTP/1.1" 200 7734
+   82  "-" "Mozilla/5.0"
+   83  10.0.3.88 - - [12/Mar/2026:08:19:35 +0100] "GET /static/styl.css HTTP/1.1" 200
+   84  2210 "-" "Mozilla/5.0"
+   85  10.0.3.51 - - [12/Mar/2026:08:20:12 +0100] "GET /api/koszyk HTTP/1.1" 200 512 "-"
+   86  "Mozilla/5.0"
+   87  192.168.10.5 - - [12/Mar/2026:08:20:48 +0100] "POST /api/platnosc/potwierdz
+   88  HTTP/1.1" 500 122 "-" "curl/8.5.0"
+   89  10.0.3.27 - - [12/Mar/2026:08:21:15 +0100] "GET /brak-strony HTTP/1.1" 404 196 "-"
+   90  "Mozilla/5.0"
+   91  10.0.3.14 - - [12/Mar/2026:08:21:50 +0100] "GET /katalog/buty HTTP/1.1" 200 9021
+   92  "-" "Mozilla/5.0"
+   93  10.0.3.88 - - [12/Mar/2026:08:22:31 +0100] "POST /api/platnosc/potwierdz HTTP/1.1"
+   94  500 122 "-" "Mozilla/5.0"
+   95  10.0.3.51 - - [12/Mar/2026:08:23:02 +0100] "GET /favicon.ico HTTP/1.1" 404 196 "-"
+   96  "Mozilla/5.0"
+   97  10.0.3.14 - - [12/Mar/2026:08:23:44 +0100] "GET /index.html HTTP/1.1" 200 5312 "-"
+   98  "Mozilla/5.0"
+   99  203.0.113.9 - - [12/Mar/2026:08:24:05 +0100] "POST /admin/login HTTP/1.1" 401 173
+  100  "-" "python-requests/2.31"
+  101  10.0.3.27 - - [12/Mar/2026:08:24:39 +0100] "GET /api/koszyk HTTP/1.1" 200 488 "-"
+  102  "Mozilla/5.0"
+  103  10.0.3.88 - - [12/Mar/2026:08:25:11 +0100] "POST /api/platnosc/potwierdz HTTP/1.1"
+  104  500 122 "-" "Mozilla/5.0"
+  105  10.0.3.51 - - [12/Mar/2026:08:25:58 +0100] "GET /static/logo.png HTTP/1.1" 200
+  106  18244 "-" "Mozilla/5.0"
+  107  10.0.3.14 - - [12/Mar/2026:08:26:30 +0100] "GET /katalog/kurtki HTTP/1.1" 200 7734
+  108  "-" "Mozilla/5.0"
+  109  172.16.4.9 - - [12/Mar/2026:08:27:02 +0100] "GET /api/koszyk HTTP/1.1" 200 501 "-"
+  110  "Mozilla/5.0"
+  111  172.16.4.9 - - [12/Mar/2026:08:27:41 +0100] "POST /api/platnosc/potwierdz
+  112  HTTP/1.1" 500 122 "-" "Mozilla/5.0"
+  113  10.0.3.27 - - [12/Mar/2026:08:28:19 +0100] "GET /index.html HTTP/1.1" 200 5312 "-"
+  114  "Mozilla/5.0"
+  115  10.0.3.88 - - [12/Mar/2026:08:29:03 +0100] "GET /brak-strony HTTP/1.1" 404 196 "-"
+  116  "Mozilla/5.0"
+  117  172.16.4.9 - - [12/Mar/2026:08:29:47 +0100] "GET /katalog/buty HTTP/1.1" 200 9021
+  118  "-" "Mozilla/5.0"
+  119  EOF
+  120  wc -l serwer-access.log 
+  121  cat > serwery.csv <<'EOF'
+  122  nazwa,srodowisko,rola,cpu,ram_gb
+  123  web-01,produkcja,web,4,8
+  124  web-02,produkcja,web,4,8
+  125  db-01,produkcja,baza,8,32
+  126  web-03,testowe,web,2,4
+  127  db-02,testowe,baza,4,16
+  128  cache-01,produkcja,cache,2,8
+  129  runner-01,testowe,ci,8,16
+  130  EOF
+  131  cat > wlasciciele.csv <<'EOF'
+  132  web-01,zespol-sklep
+  133  web-02,zespol-sklep
+  134  db-01,zespol-dane
+  135  cache-01,zespol-platforma
+  136  EOF
+  137  awk '{print $1}' wyniki.txt | sort | uniq -c
+  138  cat wyniki.txt
+  139  cd ~
+  140  sudo tee /etc/nginx/sites-available/backendy.local > /dev/null <<'EOF'
+  141  server {
+  142  listen 127.0.0.1:8081;
+  143  default_type text/plain;
+  144  location / {
+  145  return 200 "wersja 1\n";
+  146  }
+  147  }
+  148  server {
+  149  listen 127.0.0.1:8082;
+  150  default_type text/plain;
+  151  location / {
+  152  return 200 "wersja 2\n";
+  153  }
+  154  }
+  155  EOF
+  156  sudo ln -s /etc/nginx/sites-available/backendy.local /etc/nginx/sites-enabled
+  157  sudo tee /etc/nginx/sites-available/brama.local > /dev/null <<'EOF'
+  158  upstream backend_aplikacji {
+  159  server 127.0.0.1:8081;
+  160  server 127.0.0.1:8082 down;
+  161  }
+  162  server {
+  163  listen 8090;
+  164  server_name brama.local;
+  165  location / {
+  166  proxy_pass http://backend_aplikacji;
+  167  }
+  168  }
+  169  EOF
+  170  sudo ln -s /etc/nginx/sites-available/brama.local /etc/nginx/sites-enabled/
+  171  sudo nginx -t && sudo systemctl reload nginx
+  172  ls -l /etc/nginx/sites-enabled/
+  173  sudo nginx -t && sudo systemctl reload nginx
+  174  sudo rm -f /etc/nginx/sites-enabled/backendy.local
+  175  sudo rm -f /etc/nginx/sites-enabled/brama.local
+  176  sudo ln -s /etc/nginx/sites-available/backendy.local /etc/nginx/sites-enabled/backendy.local
+  177  sudo ln -s /etc/nginx/sites-available/brama.local /etc/nginx/sites-enabled/brama.local
+  178  ls -l /etc/nginx/sites-enabled/
+  179  sudo nginx -t && sudo systemctl reload nginx
+  180  sudo systemctl start nginx
+  181  sudo nginx -t && sudo systemctl reload nginx
+  182  for i in $(seq 1 120); do curl -s -w "%{http_code} " http://127.0.0.1:8090/ >> wyniki.txt; sleep 0.2; done
+  183  git add ~/Zadanie7
+  184  git commit -m "Zadanie7"
+  185  git push
+  186  sudo apt apache2-utils
+  187  sudo apt install apache2-utils
+  188  ab -V
+  189  ab -v
+  190  cd ~
+  191  mkdir Zadanie8
+  192  cd Zadanie8
+  193  sudo nginx -t && sudo systemctl restart nginx
+  194  sudo nstat -az > /dev/null
+  195  ab -k -n 5000 -c 200 http://SERWER_IP/
+  196  nstat -az | grep -i -E 'ListenOverflows|ListenDrops'
+  197  sudo nginx -t
+  198  sudo systemctl restart nginx
+  199  sudo nstat -az > /dev/null
+  200  nstat -az | grep -i -E 'ListenOverflows|ListenDrops'
+  201  nano default
+  202  sudo nano default
+  203  hostname -I
+  204  ab -k -n 5000 -c 200 http://10.0.2.15/
+  205  ab -k -n 5000 -c 200 http://172.17.0.1/
+  206  ab -k -n 5000 -c 200 http://10.0.2.15/
+  207  ab -n 5000 -c 200 http://10.0.2.15/
+  208  ab -n 5000 -c 200 http://172.17.0.1/
+  209  ab -n 5000 -c 200 http://10.0.2.15/
+  210  ab -n 50000 -c 200 http://10.0.2.15/
+  211  cd /etc/nginx
+  212  cd sites-enabled/
+  213  nano default
+  214  sudo nano default
+  215  ab -n 50000 -c 200 http://10.0.2.15/
+  216  systemcrl restart nginx
+  217  nstat -n
+  218  ab -n 20000 -c 200 -H "Host: test" http://127.0.0.1/ 2>&1 | tee naprationy.txt
+  219  ab -n 20000 -c 200 -H "Host: test" http://127.0.0.1/ 2>&1 | tee zdlawiony.txt
+  220  nstat -z TcpExtListenOverflows TcpExtListenDrops | tee naprawiony_nstat.txt
+  221  nstat -z TcpExtListenOverflows TcpExtListenDrops | tee zdlawiony_nstat.txt
+  222  sudo nstat -z TcpExtListenOverflows TcpExtListenDrops | tee zdlawiony_nstat.txt
+  223  sudo nstat -z TcpExtListenOverflows TcpExtListenDrops | sudo tee zdlawiony_nstat.txt
+  224  nstat -z TcpExtListenOverflows TcpExtListenDrops | tee sudo naprawiony_nstat.txt
+  225  systemcrl restart nginx
+  226  systemctl restart nginx
+  227  sudo systemctl restart nginx
+  228  sudo fuser -k 80/tcp
+  229  sudo fuser -k 443/tcp
+  230  sudo service nginx restart
+  231  sudo su -
+  232  cd ..
+  233  sudo /autorun.sh
+  234  cd ..
+  235  sudo ./autorun.sh
+  236  sudo sh ./VBoxLinuxAdditions.run
+  237  sudo apt update
+  238  sudo apt install -y virtualbox-guest-dkms virtualbox-guest-x11
+  239  sudo apy install -y build-essential dkms linux-headers-$(uname -r)
+  240  sudo apt install -y build-essential dkms linux-headers-$(uname -r)
+  241  sudo apt install -y virtualbox-guest-dkms virtualbox-guest-x11
+  242  sudo sh ./VBoxLinuxAdditions.run
+  243  ls /media/$USER/VBox*
+  244  sudo sh ./VBoxLinuxAdditions.run
+  245  sudo sh./VBoxLinuxAdditions-arm64.run
+  246  sudo sh ./VBoxLinuxAdditions-arm64.run
+  247  sudo reboot
+  248  sudo usermod -aG vboxsf $USER
+  249  sudo reboot
+  250  systemctl reboot -i
+  251  docker run --name pamierc --memory=64m --memory-swap=64m ubuntu:24.04   sh -c 'dd if=/dev/zero of=/dev/shm/wypelniacz bs=1M count=200'
+  252  echo $?
+  253  [200~docker inspect -f 'ExitCode: {{.State.ExitCode}}, OOMKilled: {{.State.OOMKilled}}' pamierc~
+  254  docker inspect -f 'ExitCode: {{.State.ExitCode}}, OOMKilled: {{.State.OOMKilled}}' pamierc~
+  255  docker inspect -f 'ExitCode: {{.State.ExitCode}}, OOMKilled: {{.State.OOMKilled}}' pamierc
+  256  docker ps -a --ilter name=pamierc --format 
+  257  docker ps -a --ilter name=pamierc --format 'table {{.Names}}\t{{.Status}}'
+  258  docker ps -a --filter name=pamierc --format 'table {{.Names}}\t{{.Status}}'
+  259  docker inspect -f 'ExitCode: {{.State.ExitCode}}, OOMKilled: {{.State.OOMKilled}}' pamierc
+  260  sudo dmesg | tail -n 5
+  261  docker rm pamierc
+  262  docker run --name pamierc --memory=256m --memory-swap=2560m ubuntu:24.04 sh -c 'fdd if=/dev/zero of=/dev/shm/wypelniacz bs=1M count=200'
+  263  docker run --name pamierc --memory=256m --memory-swap=2560m ubuntu:24.04 sh -c 'dd if=/dev/zero of=/dev/shm/wypelniacz bs=1M count=200'
+  264  docker rm -f pamierc
+  265  docker run --name pamierc --memory=256m --memory-swap=2560m ubuntu:24.04 sh -c 'dd if=/dev/zero of=/dev/shm/wypelniacz bs=1M count=200'
+  266  docker inspect -f 'ExitCode: {{.State.ExitCode}}, OOMKilled: {{.State.OOMKilled}}' pamierc
+  267  docker rm -f pamierc
+  268  docker run --name pamierc --memory=256m --memory-swap=256m --shm-size=256m ubuntu:24.04   sh -c 'dd if=/dev/zero of=/dev/shm/wypelniacz bs=1M count=200'
+  269  docker inspect -f 'ExitCode: {{.State.ExitCode}}, OOMKilled: {{.State.OOMKilled}}' pamierc
+  270  docker ps -a --filter name=pamierc --format 'table {{.Names}}\t{{.Status}}'
+  271  docker rm -f pamierc
+  272  cd ~/Zadanie10
+  273  history > zadanie10.txt
