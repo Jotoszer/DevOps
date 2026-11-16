@@ -1,0 +1,9 @@
+nazwa;status;odpowiedzialny
+api-platnosci;produkcja;zespół Płatności
+panel-klienta;produkcja;zespół Frontend
+raporty-nocne;wycofywany;zespół Danych
+autoryzacja;produkcja;zespół Bezpieczeństwa
+powiadomienia;produkcja;zespół Komunikacji
+wyszukiwarka;produkcja;zespół Katalogu
+rozliczenia;produkcja;zespół Finansów
+archiwum-logow;test;zespół Infrastruktury
