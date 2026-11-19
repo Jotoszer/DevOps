@@ -1,0 +1,51 @@
+pipeline {
+    agent any
+
+    options {
+        timeout(
+            time: 20,
+            unit: 'minutes'
+        )
+        buildDiscarder(logRotator(numToKeepStr: '30', artifactNumToKeepStr: '10'))
+        timestamps()
+    }
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+
+        stage('checkout') {
+            steps {
+                checkout scm
+            }
+        }
+
+        stage('zaleznosci') {
+            steps {
+                sh '''
+                    echo "Stage zaleznosci"
+                '''
+            }
+        }
+
+        stage('testy') {
+            steps {
+                sh '''
+                    echo "Stage testy"
+                '''
+            }
+        }
+    }
+
+    post {
+        always {
+            cleanWs()
+        }
+        failure {
+            echo "Kiepsko poszlo..."
+        }
+    }
+}
